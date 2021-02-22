@@ -1,4 +1,4 @@
-<img src="djangocon_2020/static/images/logo_blue.svg" height=150/>
+<img src="djangocon_2020/static/images/logo_blue.png" height=150/>
 
 🌍 [2021.djangocon.eu](https://2021.djangocon.eu/)\
 📍 Online
