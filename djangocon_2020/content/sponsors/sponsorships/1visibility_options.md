@@ -10,7 +10,7 @@ The following table highlights the main sponsor levels.
 | ---- | ----- | ----- | ----- |
 | **Bronze** | A great presence of your logo | - | € 1.000 |
 | **Silver** | Extra presence with promotial video | 1 | € 2.500 |
-| **Gold** | Special and even printed on tickets | 3 |  € 6.000 |
+| **Gold** | Special visibility | 3 |  € 6.000 |
 | **Platinum** | Extraordinary visibility at the event | 6 |  € 10.000 |
 | **Diamond** | To be seen **EVERYWHERE** | 10 | € 15.000 |
 
