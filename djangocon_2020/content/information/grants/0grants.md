@@ -1,7 +1,7 @@
 title: opportunity<br/> grants
 layout: simple
 
-**DjangoCon Europe 2021 offers grants to those who might otherwise not be able to attend won't hesitate to participate.** We will cover the full amount of the ticket for the selected for the opportunity grant recipients.
+**DjangoCon Europe 2021 offers grants to those who might otherwise not be able to attend, won't hesitate to participate.** We will cover the full amount of the ticket for the selected for the opportunity grant recipients.
 
 We actively encourage you to apply for an opportunity grant. While we wish we could give grants to everyone who applies, we do not have the funds to do that. Our goal is to maximise the impact our grant program has, within the limited funds we have.
 
@@ -11,7 +11,7 @@ We try to do this in a number of ways:
 * Additionally, the selection process attempts to promote a more diverse DjangoCon Europe. While encouraging diversity takes many forms, we're happy to use the opportunity grant program as a very direct method of supporting diversity within the Django community. In particular, our grant program prioritises those who belong to under-represented or marginalised groups in our industry, as attending our event is likely to be more difficult and financially onerous for them.
 * When prioritising grant applications, we try to get a feel for how much impact this grant will have on the applicant and the wider community and country, compared to others. In this, we consider things like involvement in a local community, social impact of the applicant's activities, and how accessible other conferences are to them.
 
-Our program prioritises speakers first, and then anyone who is part of an under-represented or marginalised group. They include, but are not limited to:
+Our program prioritises anyone who is part of an under-represented or marginalised group. They include, but are not limited to:
 
 * women and other gender minorities of all expressions and identities; e.g. trans, agender and non-binary people
 * people of colour
