@@ -23,7 +23,7 @@ layout: simple
 
 ##### Grants
 
-[![dsf](/static/images/sponsors/dsf.png){:class='sponsor'}](https://www.djangoproject.com/){:target="_blank"} [![eps](/static/images/sponsors/eps.png){:class='sponsor'}](https://www.europython-society.org/){:target="_blank"} <!-- [![psf](/static/images/sponsors/psf.png){:class='sponsor'}](https://www.python.org/psf/){:target="_blank"} -->
+[![dsf](/static/images/sponsors/dsf.png){:class='sponsor'}](https://www.djangoproject.com/){:target="_blank"} [![eps](/static/images/sponsors/eps.png){:class='sponsor'}](https://www.europython-society.org/){:target="_blank"} [![psf](/static/images/sponsors/psf.png){:class='sponsor'}](https://www.python.org/psf/){:target="_blank"}
 
 ##### Media Partner
 
