@@ -1,7 +1,7 @@
-<img src="djangocon_2020/static/images/logo_blue.png" height=150/>
+<img src="djangocon_2020/static/images/logo_blue.png" height=100/>
 
 🌍 [2021.djangocon.eu](https://2021.djangocon.eu/)\
-📍 Online
+📍 Online\
 📅 June 2-6
 
 [![built-with](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-blue.svg)](https://github.com/pydanny/cookiecutter-django/)
