@@ -52,7 +52,7 @@ This Code of Conduct applies to all conference related spaces. That includes, bu
 
 * The conference online platform
 * Any conference related social activities
-* [Slack](https://join.slack.com/t/djangoconeurope2020/shared_invite/zt-cyuhq1vr-XNFnxqD63YGTCl_YdwUJzw){:target="_blank"} channels, tweets with the conference hashtag, and other online media
+* [Slack](https://t.co/x6X7ylIq3k){:target="_blank"} channels, tweets with the conference hashtag, and other online media
 * The Code of Conduct does not exclusively apply to events on the conference agenda. For example, if after a scheduled social event, you go to a bar with a group of fellow participants and someone harasses you there, we would still treat that as a CoC violation.
 
 <hr/>

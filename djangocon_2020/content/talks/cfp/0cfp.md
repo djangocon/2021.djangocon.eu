@@ -7,7 +7,7 @@ The talk submissions are ** currently open **! If you have any question, please 
 
 ** Deadline is 2021-04-01 23h59 UTC 🔥 **- precisely speaking, that's April 1st, 2021, 23:59 UTC. You can edit your submissions up to this date, so don't hesitate to submit a preliminary version of your talk or workshop.
 
-If you think you have something great to talk about – submit your idea! If you are unsure, talk it over with somebody, or go to [Slack](https://join.slack.com/t/djangoconeurope2020/shared_invite/zt-cyuhq1vr-XNFnxqD63YGTCl_YdwUJzw){:target="_blank"} to find previous speakers and participants to discuss your idea with. ** When in doubt, submit your talk 😉!**
+If you think you have something great to talk about – submit your idea! If you are unsure, talk it over with somebody, or go to [Slack](https://t.co/x6X7ylIq3k){:target="_blank"} to find previous speakers and participants to discuss your idea with. ** When in doubt, submit your talk 😉!**
 
 <center>[<button class="btn">Submit your talk here!</button>](https://cfp.2021.djangocon.eu/2021/cfp){:target="_blank"}</center>
 
