@@ -19,7 +19,7 @@ layout: simple
 
 ##### Bronze
 
-[![cmp](/static/images/sponsors/beamian.png){:class='sponsor'}](https://beamian.com/){:target="_blank"} [![maykin](/static/images/sponsors/maykin.png){:class='sponsor'}](https://www.maykinmedia.nl/en/){:target="_blank"} 
+[![maykin](/static/images/sponsors/maykin.png){:class='sponsor'}](https://www.maykinmedia.nl/en/){:target="_blank"} [![monit](/static/images/sponsors/monit.jpg){:class='sponsor'}](https://monitdata.com/){:target="_blank"} [![beamian](/static/images/sponsors/beamian.png){:class='sponsor'}](https://beamian.com/){:target="_blank"} 
 
 ##### Grants
 
