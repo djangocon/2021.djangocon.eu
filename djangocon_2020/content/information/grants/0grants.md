@@ -27,6 +27,6 @@ Our program prioritises anyone who is part of an under-represented or marginalis
 * people who have experienced trauma and its aftermath (PTSD, anxiety, etc)
 * people living with or recovering from substance abuse
 
-**The closing date for grant applications is April 1st, 23:59 UTC** - along with the [Call for Participation](/talks/cfp/). We aim to inform you of the results by mid-April. Note that if you need a grant, you must apply before the deadline. Moreover, speakers are automatically entitled to a ticket.
+**The closing date for grant applications is April 30th, 23:59 UTC** - along with the [Call for Participation](/talks/cfp/). We aim to inform you of the results by mid-May. Note that if you need a grant, you must apply before the deadline. Moreover, speakers are automatically entitled to a ticket.
 
 

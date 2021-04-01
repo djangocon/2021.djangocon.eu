@@ -14,7 +14,7 @@ With our limited funds, we can't promise you will receive a grant, but if you're
 
 If you have questions, you can write [2021@djangocon.eu](mailto:2021@djangocon.eu).
 
-**The application window will end at April 1st 23:59 UTC!** 
+**The application window will end at April 30th 23:59 UTC!** 
 
 <center>[<button class="btn">Apply for a Grant Here!</button>](https://forms.gle/DLfB1dp3Wi3atHQe8){:target="_blank"}</center>
 
