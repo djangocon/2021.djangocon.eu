@@ -10,6 +10,7 @@ Below you have a list of amazing people from the Django community who **went abo
 - Jouni Tapiovaara
 - Manuel Seromenho
 - Miroslav Georgiev
+- Moshe Nahmias
 - Sergey Kolosov
 
 If you want to join this awesome list, [click here](/about/tickets/) to purchase a **contributor ticket**.
