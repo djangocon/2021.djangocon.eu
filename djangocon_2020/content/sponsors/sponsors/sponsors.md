@@ -4,10 +4,6 @@ layout: simple
 Below you have a list of all of our amazing sponsors who make this conference possible. If you want to join this awesome list, [click here](/sponsors/sponsorships/).
 
 
-##### Diamond
-
-[![zego](/static/images/sponsors/zego.png){:class='sponsor small'}](https://www.zego.com/){:target="_blank"}
-
 ##### Platinum
 
 [![blackfire](/static/images/sponsors/blackfire.png){:class='sponsor big'}](https://blackfire.io/python?utm_source=djangocon_eu&utm_medium=logo&utm_campaign=djangocon_eu_online2020){:target="_blank"} [![loudswarm](/static/images/sponsors/loudswarm.png){:class='sponsor smaller'}](https://loudswarm.com/){:target="_blank"}
@@ -18,7 +14,7 @@ Below you have a list of all of our amazing sponsors who make this conference po
 
 ##### Silver
 
-[![ai](/static/images/sponsors/ai.png){:class='sponsor small'}](https://ambient-innovation.com/){:target="_blank"}
+[![ai](/static/images/sponsors/ai.png){:class='sponsor small'}](https://ambient-innovation.com/){:target="_blank"} [![descript](/static/images/sponsors/descript.png){:class='sponsor small'}](https://www.descript.de/en/){:target="_blank"}
 
 ##### Bronze
 
