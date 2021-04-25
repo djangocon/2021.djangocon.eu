@@ -15,12 +15,11 @@ layout: simple
 
 ##### Bronze
 
-[![maykin](/static/images/sponsors/maykin.png){:class='sponsor'}](https://www.maykinmedia.nl/en/){:target="_blank"} [![monit](/static/images/sponsors/monit.jpg){:class='sponsor'}](https://monitdata.com/){:target="_blank"} [![beamian](/static/images/sponsors/beamian.png){:class='sponsor'}](https://beamian.com/){:target="_blank"} [![read the docs](/static/images/sponsors/readthedocs.png){:class='sponsor small'}](https://readthedocs.org/){:target="_blank"} 
-
+[![maykin](/static/images/sponsors/maykin.png){:class='sponsor'}](https://www.maykinmedia.nl/en/){:target="_blank"} [![monit](/static/images/sponsors/monit.jpg){:class='sponsor'}](https://monitdata.com/){:target="_blank"} [![beamian](/static/images/sponsors/beamian.png){:class='sponsor'}](https://beamian.com/){:target="_blank"} [![read the docs](/static/images/sponsors/readthedocs.png){:class='sponsor small'}](https://readthedocs.org/){:target="_blank"} [![python anywhere](/static/images/sponsors/pythonanywhere.svg){:class='sponsor smaller'}](https://www.pythonanywhere.com/){:target="_blank"} [![stickermule](/static/images/sponsors/stickermule.png){:class='sponsor small'}](https://www.stickermule.com/){:target="_blank"} 
 
 ##### Grants
 
-[![dsf](/static/images/sponsors/dsf.png){:class='sponsor'}](https://www.djangoproject.com/){:target="_blank"} [![eps](/static/images/sponsors/eps.png){:class='sponsor'}](https://www.europython-society.org/){:target="_blank"} [![psf](/static/images/sponsors/psf.png){:class='sponsor'}](https://www.python.org/psf/){:target="_blank"}
+[![dsf](/static/images/sponsors/dsf.png){:class='sponsor'}](https://www.djangoproject.com/){:target="_blank"} [![eps](/static/images/sponsors/eps.png){:class='sponsor'}](https://www.europython-society.org/){:target="_blank"} [![psf](/static/images/sponsors/psf.png){:class='sponsor small'}](https://www.python.org/psf/){:target="_blank"}
 
 ##### Media Partner
 
