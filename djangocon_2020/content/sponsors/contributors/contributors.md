@@ -8,6 +8,7 @@ Below you have a list of amazing people from the Django community who **went abo
 - Jan-Olov Eriksson
 - Josef Rousek
 - Jouni Tapiovaara
+- Maarten Zaanen
 - Manuel Seromenho
 - Miroslav Georgiev
 - Moshe Nahmias
