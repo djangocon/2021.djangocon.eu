@@ -22,7 +22,7 @@ Since 2008, we (descript) work with the Django framework and are now experts in 
 <hr/>
 
 ![descript](/static/images/sponsors/descript.png){:class='sponsor small'}
-[**Senior Django developer @ Descript**](https://www.descript.de/en/jobs/senior-frontend-developer/){:target="_blank"} 
+[**Senior Frontend developer @ Descript**](https://www.descript.de/en/jobs/senior-frontend-developer/){:target="_blank"} 
 📍 **Dresden, Germany** 🇩🇪 or **remote\***
 ⏱️ **Permanent Full-time or Part-time**
 descript develops web-based applications that simplify tedious management processes. But a simple solution does not only consists of an intelligent backend, but also need a sleek and appealing user interface. And this is where you come in: help us to bring concepts and designs to life in in the frontend. We want to extend our team and are looking for a frontend developer, who either can work remote or in our office in Dresden. You want to work at an aspiring IT company, shaping exciting software products? Then go ahead and [apply here](https://www.descript.de/en/jobs/senior-frontend-developer/){:target="_blank"}!
