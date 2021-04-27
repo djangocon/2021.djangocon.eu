@@ -3,6 +3,6 @@ layout: simple
 
 The event schedule will be available soon! 
 
-The talks will take place on June 2 and 4, from 9 AM to 6 PM (GMT+1 London/Lisbon).
+The conference talks & workshops will take place from 9AM to 6PM (UTC+2), June 2-4.
 
 <!--[<button class="btn">View schedule!</button>](https://cfp.2020.djangocon.eu/porto/schedule/){:target="_blank"}-->
