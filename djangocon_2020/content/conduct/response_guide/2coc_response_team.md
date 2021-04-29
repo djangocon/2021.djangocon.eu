@@ -34,7 +34,7 @@ As a result of the meeting, the CARE team may come to a conclusion about a resol
 
 As soon as reasonable, but at the latest at the report review meeting, team members should declare any conflicts of interest. This can mean being friends with one of the involved parties, or anything else that may make it harder to remain neutral.
 
-A conflict of interest does not inherently mean the team member can no longer participate in the process, as that would make it very hard for the team to act on reports involving well-known people in the community. However, if a report concerns someone a team member is very close to, they probably should be not take part in the process. The team will decide together on where to draw this line in individual cases. Where possible, any conversations with offenders should not be done by their friends, as it can be very unpleasant for everyone involved.
+A conflict of interest does not inherently mean the team member can no longer participate in the process, as that would make it very hard for the team to act on reports involving well-known people in the community. However, if a report concerns someone a team member is very close to, they probably should not take part in the process. The team will decide together on where to draw this line in individual cases. Where possible, any conversations with offenders should not be done by their friends, as it can be very unpleasant for everyone involved.
 
 ### Resolutions
 
@@ -49,7 +49,7 @@ The most common resolutions the CARE team can decide on are:
 
 Resolutions are not restricted to these options. Any conversations with bad actors are done by two people from the CARE team, and notes from this conversation will be added to the record of the incident.
 
-When deciding on a resolution, our basic goal is to address the report in an appropriate way, while also looking to prevent or reduce the risk of continuing harm in the future. For example, we may try to distinguish whether a violation occurred intentionally or not, especially in not too severe cases like inappropriate jokes. In intentional cases, or severe behaviour, we'll probably choose for stronger measures. The CARE team can also use behaviour on social media, the conference [Slack](https://t.co/x6X7ylIq3k){:target="_blank"} or personal interactions to further build a picture of the person(s) involved.
+When deciding on a resolution, our basic goal is to address the report in an appropriate way, while also looking to prevent or reduce the risk of continuing harm in the future. For example, we may try to distinguish whether a violation occurred intentionally or not, especially in not too severe cases like inappropriate jokes. In intentional cases, or severe behaviour, we'll probably choose for stronger measures. The CARE team can also use behaviour on social media, the conference [Slack](https://t.co/x6X7ylIq3k){:target="_blank"}, or personal interactions to further build a picture of the person(s) involved.
 
 ### Informing the reporter
 
