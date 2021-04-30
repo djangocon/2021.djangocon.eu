@@ -223,6 +223,9 @@ td, th {
   height: 50px;
   margin: 15px 30px 15px 0; }
 
+.sponsor.huge {
+    height: 90px; }
+    
 .sponsor.big {
   height: 70px; }
 
