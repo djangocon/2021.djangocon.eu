@@ -14,7 +14,7 @@ Maykin Media is a webdevelopment agency in the vibrant, buzzing city center of A
 <hr/>
 
 ![descript](/static/images/sponsors/descript.png){:class='sponsor small'}
-[**Senior Django developer @ Descript**](https://www.descript.de/en/jobs/django-developer/){:target="_blank"} 
+[**Senior Django developer @ descript**](https://www.descript.de/en/jobs/django-developer/){:target="_blank"} 
 📍 **Dresden, Germany** 🇩🇪 or **remote\***
 ⏱️ **Permanent Full-time or Part-time**
 Since 2008, we (descript) work with the Django framework and are now experts in this topic in our region. Roughly 90% of our projects are done with Django and our new products will also be mostly implemented with this framework. Now we want to extend our developer team with a Django developer. You want to work at an aspiring IT company, shaping exciting software products? Then go ahead and [apply here](https://www.descript.de/en/jobs/django-developer/){:target="_blank"}!
@@ -22,10 +22,18 @@ Since 2008, we (descript) work with the Django framework and are now experts in 
 <hr/>
 
 ![descript](/static/images/sponsors/descript.png){:class='sponsor small'}
-[**Senior Frontend developer @ Descript**](https://www.descript.de/en/jobs/senior-frontend-developer/){:target="_blank"} 
+[**Senior Frontend developer @ descript**](https://www.descript.de/en/jobs/senior-frontend-developer/){:target="_blank"} 
 📍 **Dresden, Germany** 🇩🇪 or **remote\***
 ⏱️ **Permanent Full-time or Part-time**
 descript develops web-based applications that simplify tedious management processes. But a simple solution does not only consists of an intelligent backend, but also need a sleek and appealing user interface. And this is where you come in: help us to bring concepts and designs to life in in the frontend. We want to extend our team and are looking for a frontend developer, who either can work remote or in our office in Dresden. You want to work at an aspiring IT company, shaping exciting software products? Then go ahead and [apply here](https://www.descript.de/en/jobs/senior-frontend-developer/){:target="_blank"}!
+
+<hr/>
+
+![sixfeetup](/static/images/sponsors/sfu.svg){:class='sponsor'}
+[**UX Designer / Project Manager @ Six Feet Up**](https://sixfeetup.com/company/ux-designer-project-manager){:target="_blank"} 
+📍 **Remote**
+⏱️ **Full-time**
+Six Feet Up is looking for a full-time experienced UX Designer/Project Manager to be the voice of the user, understand unique needs of each client, and coordinate the development of web applications through a close collaboration with the Sales and Engineering teams. Is this you? [Read more.](https://sixfeetup.com/company/ux-designer-project-manager){:target="_blank"}
 
 <hr/>
 
