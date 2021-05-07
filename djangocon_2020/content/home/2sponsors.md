@@ -7,7 +7,7 @@ layout: simple
 
 ##### Gold
 
-[![vonage](/static/images/sponsors/vonage.png){:class='sponsor'}](https://developer.nexmo.com/){:target="_blank"} [![sixfeetup](/static/images/sponsors/sfu.svg){:class='sponsor'}](https://sixfeetup.com/){:target="_blank"}
+[![vonage](/static/images/sponsors/vonage.png){:class='sponsor'}](https://developer.vonage.com/){:target="_blank"} [![sixfeetup](/static/images/sponsors/sfu.svg){:class='sponsor'}](https://sixfeetup.com/){:target="_blank"}
 
 ##### Silver
 
