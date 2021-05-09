@@ -3,6 +3,7 @@ layout: simple
 
 Feel free to download any assets that you might need:
 
+* [Video-conference Background](/static/images/zoom_background.png){:target="_blank" download="zoom_background.png"} (PNG)
 * Logo (SVG)
     * [White](/static/images/logo.svg){:target="_blank" download="logo_white.svg"}
     * [Blue](/static/images/logo_blue.svg){:target="_blank" download="logo_blue.svg"}
