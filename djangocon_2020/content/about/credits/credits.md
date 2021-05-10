@@ -16,4 +16,4 @@ This list of individuals is still growing. Nonetheless, these are our sincerest 
  * Telmo Guerra
  * Victor Duarte
 
-In addition, the wonderful [speakers](/talks/talks), our amazing [sponsors](/sponsors/sponsors), the fantastic [Django Software Foundation members](https://www.djangoproject.com/foundation/individual-members/){:target="_blank"}, and to everyone who bought a ticket.
+In addition, the wonderful [speakers](/talks/schedule/), our amazing [sponsors](/sponsors/sponsors), the fantastic [Django Software Foundation members](https://www.djangoproject.com/foundation/individual-members/){:target="_blank"}, and to everyone who bought a ticket.
