@@ -38,7 +38,7 @@ Six Feet Up is looking for a full-time experienced UX Designer/Project Manager t
 <hr/>
 
 ![torchbox](/static/images/sponsors/torchbox.svg){:class='sponsor big'}
-[**Senior Python Developer @ Torchbox**](https://torchbox.peoplehr.net/Pages/JobBoard/Opening.aspx?v=f0cf0983-4229-4970-a0b6-54ae5c2192a1){:target="_blank"} 
+[**Senior Django Developer @ Torchbox**](https://torchbox.peoplehr.net/Pages/JobBoard/Opening.aspx?v=f0cf0983-4229-4970-a0b6-54ae5c2192a1){:target="_blank"} 
 📍 **Bristol / Cambridge / Charlbury, United Kingdom 🇬🇧** or **Remote**
 ⏱️ **Full-time**
 You’ll be taking the lead on building web apps for our lovely, interesting clients in the UK, Europe and the US; organisations like the NHS, NASA, Google, Mozilla, Oxfam, the World Food Programme, Médecins Sans Frontières. You'll be helping us improve Wagtail, our open source CMS. [Read more.](https://torchbox.peoplehr.net/Pages/JobBoard/Opening.aspx?v=f0cf0983-4229-4970-a0b6-54ae5c2192a1){:target="_blank"}
