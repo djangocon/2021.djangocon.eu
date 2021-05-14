@@ -232,6 +232,9 @@ td, th {
 .sponsor.big {
   height: 70px; }
 
+.sponsor.lbig {
+    height: 60px; }
+
 .sponsor.small {
   height: 40px; }
 
