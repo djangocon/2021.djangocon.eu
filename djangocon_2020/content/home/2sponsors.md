@@ -11,7 +11,7 @@ layout: simple
 
 ##### Silver
 
-[![ai](/static/images/sponsors/ai.png){:class='sponsor'}](https://ambient-innovation.com/){:target="_blank"} [![descript](/static/images/sponsors/descript.png){:class='sponsor'}](https://www.descript.de/en/){:target="_blank"} [![jetbrains](/static/images/sponsors/jetbrains.svg){:class='sponsor huge'}](https://www.jetbrains.com/pycharm/){:target="_blank"} ![kolo](/static/images/sponsors/kolo.svg){:class='sponsor big'}
+[![ai](/static/images/sponsors/ai.png){:class='sponsor'}](https://ambient-innovation.com/){:target="_blank"} [![descript](/static/images/sponsors/descript.png){:class='sponsor'}](https://www.descript.de/en/){:target="_blank"} [![jetbrains](/static/images/sponsors/jetbrains.svg){:class='sponsor huge'}](https://www.jetbrains.com/pycharm/){:target="_blank"} [![kolo](/static/images/sponsors/kolo.svg){:class='sponsor big'}](https://kolo.app/){:target="_blank"}
 
 ##### Bronze
 
