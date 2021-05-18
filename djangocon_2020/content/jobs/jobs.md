@@ -19,9 +19,6 @@ Maykin Media is a webdevelopment agency in the vibrant, buzzing city center of A
 ⏱️ **Permanent Full-time or Part-time**
 Since 2008, we (descript) work with the Django framework and are now experts in this topic in our region. Roughly 90% of our projects are done with Django and our new products will also be mostly implemented with this framework. Now we want to extend our developer team with a Django developer. You want to work at an aspiring IT company, shaping exciting software products? Then go ahead and [apply here](https://www.descript.de/en/jobs/django-developer/){:target="_blank"}!
 
-<hr/>
-
-![descript](/static/images/sponsors/descript.png){:class='sponsor small'}
 [**Senior Frontend developer @ descript**](https://www.descript.de/en/jobs/senior-frontend-developer/){:target="_blank"} 
 📍 **Dresden, Germany** 🇩🇪 or **remote\***
 ⏱️ **Permanent Full-time or Part-time**
@@ -30,6 +27,7 @@ descript develops web-based applications that simplify tedious management proces
 <hr/>
 
 ![sixfeetup](/static/images/sponsors/sfu.svg){:class='sponsor'}
+
 [**UX Designer / Project Manager @ Six Feet Up**](https://sixfeetup.com/company/ux-designer-project-manager){:target="_blank"} 
 📍 **Remote**
 ⏱️ **Full-time**
@@ -42,5 +40,20 @@ Six Feet Up is looking for a full-time experienced UX Designer/Project Manager t
 📍 **Bristol / Cambridge / Charlbury, United Kingdom 🇬🇧** or **Remote**
 ⏱️ **Full-time**
 You’ll be taking the lead on building web apps for our lovely, interesting clients in the UK, Europe and the US; organisations like the NHS, NASA, Google, Mozilla, Oxfam, the World Food Programme, Médecins Sans Frontières. You'll be helping us improve Wagtail, our open source CMS. [Read more.](https://torchbox.peoplehr.net/Pages/JobBoard/Opening.aspx?v=f0cf0983-4229-4970-a0b6-54ae5c2192a1){:target="_blank"}
+
+<hr/>
+
+![jetbrains](/static/images/sponsors/jetbrains.svg){:class='sponsor huge'}
+
+[**QA Engineer @ PyCharm**](https://www.jetbrains.com/careers/jobs/qa-engineer-219/){:target="_blank"} 
+📍 **St. Petersburg, Moscow, Russia 🇷🇺 / Munich, Germany 🇩🇪 / Prague, Czech Republic 🇨🇿 / Amsterdam, Netherlands 🇳🇱** or **Remote**
+⏱️ **Permanent Full-time**
+PyCharm is a smart IDE for Python applications. Python is one of the fastest-growing languages and is applied in a variety of fields, from web apps to distributed processing of big data. And PyCharm is there to help Python developers cope with their tasks and focus on creative processes. We are looking for a QA Engineer to perform functional, exploratory, and regression testing of various IDE components and usability testing.[Read more and apply!](https://www.jetbrains.com/careers/jobs/qa-engineer-219/){:target="_blank"}
+
+[**Support Engineer @ PyCharm**](https://www.jetbrains.com/careers/jobs/support-engineer-241/){:target="_blank"} 
+📍 **St. Petersburg, Moscow, Russia 🇷🇺 / Munich, Germany 🇩🇪 / Prague, Czech Republic 🇨🇿 / Amsterdam, Netherlands 🇳🇱** or **Remote**
+⏱️ **Permanent Full-time**
+PyCharm is a smart IDE for Python applications. Python is one of the fastest-growing languages and is applied in a variety of fields, from web apps to distributed processing of big data. And PyCharm is there to help Python developers cope with their tasks and focus on creative processes. If you enjoy helping users no matter what issues they experience,
+can explain complex ideas in simple words, and are ready to keep the conversation going, even when others might have given up, we are looking forward to see you at the job interview! [Apply now!](https://www.jetbrains.com/careers/jobs/support-engineer-241/){:target="_blank"}
 
 <hr/>
