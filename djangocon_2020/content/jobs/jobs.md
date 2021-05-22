@@ -5,6 +5,12 @@ Looking for a job? Here is an awesome list with companies who sponsored the conf
 
 <hr/>
 
+[![hackajob](/static/images/sponsors/hackajob.png){:class='sponsor'}](https://hackajob.co/){:target="_blank"}
+
+**If you don't find a job that fits you, you should try [hackajob](https://hackajob.co/){:target="_blank"}** and get introduced to top employers and discover new career opportunities! Think big, search small and get the job you deserve. ** Maximise your potential!**
+
+<hr/>
+
 ![maykin](/static/images/sponsors/maykin.png){:class='sponsor'}  
 [**Python/Django developer @ Maykin Media**](https://www.maykinmedia.nl/en/jobs/parttime-django-jobs/){:target="_blank"} 
 📍 **Amsterdam, Netherlands** 🇳🇱
@@ -57,3 +63,11 @@ PyCharm is a smart IDE for Python applications. Python is one of the fastest-gro
 can explain complex ideas in simple words, and are ready to keep the conversation going, even when others might have given up, we are looking forward to see you at the job interview! [Apply now!](https://www.jetbrains.com/careers/jobs/support-engineer-241/){:target="_blank"}
 
 <hr/>
+
+[![hackajob](/static/images/sponsors/hackajob.png){:class='sponsor huge'}](https://hackajob.co/){:target="_blank"}
+
+### You didn't find a job that fits you? 
+
+** Try [hackajob](https://hackajob.co/){:target="_blank"} get introduced to top employers and discover new career opportunities! ** Think big, search small and get the job you deserve. ** Maximise your potential!**
+
+

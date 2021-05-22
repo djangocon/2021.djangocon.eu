@@ -10,11 +10,11 @@ Below you have a list of all of our amazing sponsors who make this conference po
 
 ##### Gold
 
-[![vonage](/static/images/sponsors/vonage.png){:class='sponsor'}](https://developer.vonage.com/){:target="_blank"} [![sixfeetup](/static/images/sponsors/sfu.svg){:class='sponsor'}](https://sixfeetup.com/){:target="_blank"}
+[![vonage](/static/images/sponsors/vonage.png){:class='sponsor'}](https://developer.vonage.com/){:target="_blank"} [![sixfeetup](/static/images/sponsors/sfu.svg){:class='sponsor'}](https://sixfeetup.com/){:target="_blank"} [![ai](/static/images/sponsors/ai.png){:class='sponsor'}](https://ambient-innovation.com/){:target="_blank"} 
 
 ##### Silver
 
-[![ai](/static/images/sponsors/ai.png){:class='sponsor'}](https://ambient-innovation.com/){:target="_blank"} [![descript](/static/images/sponsors/descript.png){:class='sponsor'}](https://www.descript.de/en/){:target="_blank"} [![jetbrains](/static/images/sponsors/jetbrains.svg){:class='sponsor huge'}](https://www.jetbrains.com/pycharm/){:target="_blank"} [![kolo](/static/images/sponsors/kolo.svg){:class='sponsor lbig'}](https://kolo.app/){:target="_blank"}
+[![descript](/static/images/sponsors/descript.png){:class='sponsor'}](https://www.descript.de/en/){:target="_blank"} [![jetbrains](/static/images/sponsors/jetbrains.svg){:class='sponsor huge'}](https://www.jetbrains.com/pycharm/){:target="_blank"} [![kolo](/static/images/sponsors/kolo.svg){:class='sponsor lbig'}](https://kolo.app/){:target="_blank"} [![hackajob](/static/images/sponsors/hackajob.png){:class='sponsor small'}](https://hackajob.co/){:target="_blank"}
 
 ##### Bronze
 
