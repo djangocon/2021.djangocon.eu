@@ -64,6 +64,25 @@ can explain complex ideas in simple words, and are ready to keep the conversatio
 
 <hr/>
 
+![vonage](/static/images/sponsors/vonage.png){:class='sponsor big'}
+
+[**VP of Developer Relations & Design @ Vonage**](https://www.vonage.com/careers/job-details/5162770002/){:target="_blank"} 
+📍 **UK 🇬🇧 / USA East Coast 🇺🇸** or **Remote**
+⏱️ **Permanent Full-time**
+At Vonage, we believe that great developer platforms are built through a combination of product development best practices and a passion for supporting developer communities around the world. This role provides an opportunity to execute on this vision through the leadership of multi-functional teams consisting of Product Design, Developer Experience & Developer Relations roles. This is an opportunity to support, empower, grow and scale a highly respected global, distributed and diverse Platform & Developer Experience team consisting of Product Managers, Technical Writers and Developer Advocates through the continuous transformation and growth of Vonage.[Apply now!](https://www.vonage.com/careers/job-details/5162770002/){:target="_blank"}
+
+[**Senior Product Manager - VCP Experience @ Vonage**](https://www.vonage.com/careers/job-details/5269154002/){:target="_blank"} 
+📍 **London, UK 🇬🇧**
+⏱️ **Permanent Full-time**
+The VCP Experience is the primary user interface for Vonage’s customers, developers and non-developer personas alike. We are looking for a visionary to help build the next generation Console for our unified Vonage experience in order to allow our customers to design, build and maintain their communications solutions. This is a pivotal role in defining the future of cloud communications and enabling Vonage to become the market leader. As part of the responsibilities you will also own and maintain the current API Consoles for Video and Core APIs with a view to integrate into the new VCP Experience Console.[Apply now!](https://www.vonage.com/careers/job-details/5269154002/){:target="_blank"}
+
+[**Senior JavaScript Developer Advocate (Developer Relations) @ Vonage**](https://www.vonage.com/careers/job-details/5192666002/){:target="_blank"} 
+📍 **UK 🇬🇧** or **Remote**
+⏱️ **Permanent Full-time**
+As a JavaScript developer advocate at Vonage, your main responsibilities will be to support the community and ensure that customers using the JavaScript SDKs have the best experience possible. This will include providing SDK and API feedback to internal teams and producing demos and documentation for the wider developer community to help them get started with Vonage.[Apply now!](https://www.vonage.com/careers/job-details/5192666002/){:target="_blank"}
+
+<hr/>
+
 [![hackajob](/static/images/sponsors/hackajob.png){:class='sponsor huge'}](https://hackajob.co/){:target="_blank"}
 
 ### You didn't find a job that fits you? 
