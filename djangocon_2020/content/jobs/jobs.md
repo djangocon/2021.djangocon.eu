@@ -5,9 +5,9 @@ Looking for a job? Here is an awesome list with companies who sponsored the conf
 
 <hr/>
 
-[![hackajob](/static/images/sponsors/hackajob.png){:class='sponsor'}](https://hackajob.co/){:target="_blank"}
+[![hackajob](/static/images/sponsors/hackajob.png){:class='sponsor'}](https://bit.ly/3u9rBko){:target="_blank"}
 
-**If you don't find a job that fits you, you should try [hackajob](https://hackajob.co/){:target="_blank"}** and get introduced to top employers and discover new career opportunities! Think big, search small and get the job you deserve. ** Maximise your potential!**
+Sign up to [hackajob](https://bit.ly/3u9rBko){:target="_blank"} and get introduced to top employers and discover new career opportunities! **Think big, search small and get the job you deserve.**
 
 <hr/>
 
@@ -64,7 +64,7 @@ can explain complex ideas in simple words, and are ready to keep the conversatio
 
 <hr/>
 
-![vonage](/static/images/sponsors/vonage.png){:class='sponsor big'}
+![vonage](/static/images/sponsors/vonage.png){:class='sponsor'}
 
 [**VP of Developer Relations & Design @ Vonage**](https://www.vonage.com/careers/job-details/5162770002/){:target="_blank"} 
 📍 **UK 🇬🇧 / USA East Coast 🇺🇸** or **Remote**
@@ -83,10 +83,9 @@ As a JavaScript developer advocate at Vonage, your main responsibilities will be
 
 <hr/>
 
-[![hackajob](/static/images/sponsors/hackajob.png){:class='sponsor huge'}](https://hackajob.co/){:target="_blank"}
+[![hackajob](/static/images/sponsors/hackajob.png){:class='sponsor huge'}](https://bit.ly/3u9rBko){:target="_blank"}
 
-### You didn't find a job that fits you? 
+### Maximise your potential
 
-** Try [hackajob](https://hackajob.co/){:target="_blank"} get introduced to top employers and discover new career opportunities! ** Think big, search small and get the job you deserve. ** Maximise your potential!**
-
+Sign up to [hackajob](https://bit.ly/3u9rBko){:target="_blank"} and get introduced to top employers and discover new career opportunities! Think big, search small and get the job you deserve.
 
