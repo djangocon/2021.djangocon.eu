@@ -10,18 +10,21 @@ Below you have a list of amazing people from the Django community who **went abo
 - Bashar Al-Abdulhadi - KUWAITNET
 - Breogan Amoedo Fariña
 - Daniel Gayoso
+- Edgars Klavins
 - Emad Mokhtar Elsayed Habib
 - Eriks Karls
 - Florian Apolloner
 - Ian Foote
 - Ian Stewart
 - Jan-Olov Eriksson
+- Jochem Berends - KE-works B.V
 - Josef Rousek
 - Jouni Tapiovaara
 - Luís Lopes
 - Maarten Zaanen
 - Manuel Seromenho
 - Marco Silva
+- Markus Holtermann
 - Michael Nicholson
 - Miroslav Georgiev
 - Moshe Nahmias
