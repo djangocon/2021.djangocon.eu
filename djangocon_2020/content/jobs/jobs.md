@@ -83,6 +83,33 @@ As a JavaScript developer advocate at Vonage, your main responsibilities will be
 
 <hr/>
 
+![ambient innovation](/static/images/sponsors/ai.png){:class='sponsor'}
+
+[**Agile IT Project Manager @ Ambient Innovation**](https://www.ambient-innovation.com/agiler-it-projektmanager-koeln/){:target="_blank"} 
+📍 **Cologne, Germany 🇩🇪** or **Remote**
+⏱️ **Permanent Full-time**
+The desire for a new challenge, is the theme of your current retro?
+Start your next sprint at Ambient!
+Ambient Innovation is a Cologne-based digital agency and specializes in individual software solutions. We work with the most modern technologies and agile principles. Our breeding ground is our particularly open corporate culture with our values.[Apply now!](https://www.ambient-innovation.com/agiler-it-projektmanager-koeln/){:target="_blank"}
+
+[**Senior Web Developer @ Ambient Innovation**](https://ambient-innovation.com/senior-webentwickler/){:target="_blank"} 
+📍 **Remote**
+⏱️ **Permanent Full-time**
+Have you already done various web rodeos?
+Do you want to help others get better and be part of a fantastic team?
+Then become part of us!
+We are an IT, app and web agency in the heart of Cologne and experts for individual software. We live our open corporate culture, question the norm and work with our customers on an equal footing. You don't have to leave your home planet for us and the position is also available remotely.[Apply now!](https://ambient-innovation.com/senior-webentwickler/){:target="_blank"}
+
+[**Python Web Developer @ Ambient Innovation**](https://ambient-innovation.com/python-webentwickler/){:target="_blank"} 
+📍 **Cologne, Germany 🇩🇪** or **Remote**
+⏱️ **Permanent Full-time**
+Do you like to get involved in the development of your team?
+Do you think that talking shop with your colleagues is part of a perfect working day?
+Then become part of us!
+Ambient Innovation is an IT and web agency based in Cologne. Our focus is technology and we have been implementing innovative web applications since 2010. We work with the most powerful technologies and develop agile according to Scrum. We live our open corporate culture and values . Since this also works wonderfully remotely, you don't have to leave your home planet for us.[Apply now!](https://ambient-innovation.com/python-webentwickler/){:target="_blank"}
+
+<hr/>
+
 [![hackajob](/static/images/sponsors/hackajob.png){:class='sponsor huge'}](https://bit.ly/3u9rBko){:target="_blank"}
 
 ### Maximise your potential
