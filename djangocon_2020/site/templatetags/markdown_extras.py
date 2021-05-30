@@ -16,7 +16,8 @@ def markdown(value):
         'extra',
         'nl2br',
         'sane_lists',
-        'meta'
+        'meta',
+        'toc',
         ])
     r['html'] = m.convert(f)
     r['meta'] = m.Meta
