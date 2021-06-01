@@ -7,7 +7,7 @@ The organizers will introduce a Code of Conduct team that will be primarily resp
 The team can be reached on [conduct@djangocon.eu](mailto:conduct@djangocon.eu), and its members are (alphabetically):
 
 * Andrew Kinyua
-* Jesse Hunt
+* Jesse Hunt (he/him)
 * Rin (they/them)
 * Thibaud Colas (he/him)
 
