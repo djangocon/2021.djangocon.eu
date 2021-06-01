@@ -24,9 +24,9 @@ Below you have a list of all of our amazing sponsors who make this conference po
 
 [![dsf](/static/images/sponsors/dsf.png){:class='sponsor'}](https://www.djangoproject.com/){:target="_blank"} [![eps](/static/images/sponsors/eps.png){:class='sponsor'}](https://www.europython-society.org/){:target="_blank"} [![psf](/static/images/sponsors/psf.png){:class='sponsor small'}](https://www.python.org/psf/){:target="_blank"}
 
-##### Media Partner
+##### Partners
 
-[![iberian property](/static/images/sponsors/ip.jpg){:class='sponsor smaller'}](https://iberian.property/){:target="_blank"}
+[![cmp](/static/images/sponsors/cmp.png){:class='sponsor'}](https://www.porto.pt/en){:target="_blank"} [![iberian property](/static/images/sponsors/ip.jpg){:class='sponsor smaller'}](https://iberian.property/){:target="_blank"}
 
 ##### Organizer
 
