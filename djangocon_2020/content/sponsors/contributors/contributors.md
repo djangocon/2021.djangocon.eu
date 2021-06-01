@@ -11,6 +11,7 @@ Below you have a list of amazing people from the Django community who **went abo
 - Breogan Amoedo Fariña
 - Daniel Gayoso
 - Edgars Klavins
+- Edu-Werkstatt Berlin
 - Emad Mokhtar Elsayed Habib
 - Eriks Karls
 - Florian Apolloner
