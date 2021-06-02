@@ -11,7 +11,7 @@ layout: simple
 
 ##### Silver
 
-[![descript](/static/images/sponsors/descript.png){:class='sponsor'}](https://www.descript.de/en/){:target="_blank"} [![jetbrains](/static/images/sponsors/jetbrains.svg){:class='sponsor huge'}](https://www.jetbrains.com/pycharm/){:target="_blank"} [![kolo](/static/images/sponsors/kolo.svg){:class='sponsor lbig'}](https://kolo.app/){:target="_blank"} [![hackajob](/static/images/sponsors/hackajob.png){:class='sponsor small'}](https://bit.ly/3u9rBko){:target="_blank"}
+[![descript](/static/images/sponsors/descript.png){:class='sponsor'}](https://www.descript.de/djangocon){:target="_blank"} [![jetbrains](/static/images/sponsors/jetbrains.svg){:class='sponsor huge'}](https://www.jetbrains.com/pycharm/){:target="_blank"} [![kolo](/static/images/sponsors/kolo.svg){:class='sponsor lbig'}](https://kolo.app/){:target="_blank"} [![hackajob](/static/images/sponsors/hackajob.png){:class='sponsor small'}](https://bit.ly/3u9rBko){:target="_blank"}
 
 ##### Bronze
 
