@@ -5,6 +5,7 @@ Below you have a list of amazing people from the Django community who **went abo
 
 - 3megawatt
 - Agris Ameriks
+- Alejandro Garza
 - Andrew Godwin
 - Anže Pečar
 - Bashar Al-Abdulhadi - KUWAITNET
@@ -29,6 +30,7 @@ Below you have a list of amazing people from the Django community who **went abo
 - Michael Nicholson
 - Miroslav Georgiev
 - Moshe Nahmias
+- Petzi
 - Sergey Kolosov
 
 If you want to join this awesome list, [click here](/about/tickets/) to purchase a **contributor ticket**.
