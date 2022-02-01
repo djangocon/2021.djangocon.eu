@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//SPQP39
+BEGIN:VEVENT
+UID:pretalx-2021-SPQP39@cfp.2021.djangocon.eu
+DTSTART:20210602T071500Z
+DTEND:20210602T080000Z
+DESCRIPTION:As programmers\, we’re very lucky - our work is often creativ
+ e and enjoyable\, and the culture of programming itself is inventive and p
+ layful. Programming can be a pleasure in itself. What we don’t usually r
+ ecognise is that the effect of this is to make the software we create wors
+ e rather better. If we want to make better software\, we need to start pro
+ gramming not for pleasure\, but for pain.
+DTSTAMP:20220201T162247Z
+LOCATION:Main Room
+SUMMARY:Programming for pleasure - Daniele Procida
+URL:https://cfp.2021.djangocon.eu/2021/talk/SPQP39/
+END:VEVENT
+END:VCALENDAR

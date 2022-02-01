@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//NUKNRB
+BEGIN:VEVENT
+UID:pretalx-2021-NUKNRB@cfp.2021.djangocon.eu
+DTSTART:20210604T152000Z
+DTEND:20210604T160500Z
+DESCRIPTION:In this talk\, we will focus on two aspects. First\, performing
+  penetration testing on Django web applications to identify vulnerabilitie
+ s and scanning for Open Web Application Security Project (OWASP) Top 10 ri
+ sks. Second\, strategies and configuration settings for making the source 
+ code and Django applications secure.
+DTSTAMP:20220201T162926Z
+LOCATION:Main Room
+SUMMARY:Securing Django Applications - Gajendra Deshpande
+URL:https://cfp.2021.djangocon.eu/2021/talk/NUKNRB/
+END:VEVENT
+END:VCALENDAR

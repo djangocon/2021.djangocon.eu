@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//VCTVRB
+BEGIN:VEVENT
+UID:pretalx-2021-VCTVRB@cfp.2021.djangocon.eu
+DTSTART:20210603T115000Z
+DTEND:20210603T130500Z
+DESCRIPTION:Imagine you built a pretty snazzy Django app to transform your 
+ company's business. You're helping with revolutionising the energy industr
+ y to make better use of green energy. Pretty cool right? Now imagine your 
+ company is expanding to new countries and not only that\, other companies 
+ want to use your app too. Even better! But also imagine you wrote that app
+  specifcally with your company in one country in mind. This talk is going 
+ to cover the approach we've taken in transforming our app to work for mult
+ iple clients in multiple countries while still keeping the core of it the 
+ same.
+DTSTAMP:20220201T162822Z
+LOCATION:Main Room
+SUMMARY:KEYNOTE | Spreading our tentacles - taking a Django app global - Fr
+ ederike Jaeger
+URL:https://cfp.2021.djangocon.eu/2021/talk/VCTVRB/
+END:VEVENT
+END:VCALENDAR

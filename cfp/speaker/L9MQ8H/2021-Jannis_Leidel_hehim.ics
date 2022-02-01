@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//L9MQ8H
+BEGIN:VEVENT
+UID:pretalx-2021-SDMA7T@cfp.2021.djangocon.eu
+DTSTART:20210604T115000Z
+DTEND:20210604T130500Z
+DESCRIPTION:The Jazzband project was launched 5 years ago to help maintaine
+ rs find a way to secure the long-term maintenance of their Python projects
+ . The result was a collective of volunteers that stepped up in a big way o
+ n the way to solve Open Source sustainability.\n\nIn this talk I'll dive i
+ nto the history of the project\, the good and bad of running the project f
+ or >5 years and the next steps for Jazzband.
+DTSTAMP:20220201T163316Z
+LOCATION:Main Room
+SUMMARY:KEYNOTE | We're all part of this: Jazzband 5 years later - Jannis L
+ eidel (he/him)
+URL:https://cfp.2021.djangocon.eu/2021/talk/SDMA7T/
+END:VEVENT
+END:VCALENDAR

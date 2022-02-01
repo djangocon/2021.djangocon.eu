@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//EYKPU8
+BEGIN:VEVENT
+UID:pretalx-2021-EYKPU8@cfp.2021.djangocon.eu
+DTSTART:20210602T080000Z
+DTEND:20210602T084500Z
+DESCRIPTION:Developers who are not familiar with databases often fear them\
+ , and prefer to treat them like a blackbox. Indexes are extremely powerful
+  and Django provides many ways of using indexes to make queries faster. \n
+ \nIn this talk I’ll present advanced indexing technics in PostgreSQL usi
+ ng the Django ORM.
+DTSTAMP:20220201T162308Z
+LOCATION:Main Room
+SUMMARY:Unlocking the full potential of PostgreSQL indexes in Django - Haki
+  Benita
+URL:https://cfp.2021.djangocon.eu/2021/talk/EYKPU8/
+END:VEVENT
+END:VCALENDAR

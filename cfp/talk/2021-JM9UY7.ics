@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//JM9UY7
+BEGIN:VEVENT
+UID:pretalx-2021-JM9UY7@cfp.2021.djangocon.eu
+DTSTART:20210602T152000Z
+DTEND:20210602T160500Z
+DESCRIPTION:Domain driven design is starting getting traction in the Python
+  world\, probably also thanks to Architecture Patterns with Python (https:
+ //www.cosmicpython.com/). \n\n\nIn this talk we will learn some basics of 
+ Domain Driven Design and how to apply the pattern when using Django and Gr
+ aphQL. We will see different approaches of modelling the domain\, and disc
+ uss the tradeoffs. We will discuss why this approach makes a lot of sense 
+ with GraphQL and finally we will see a complex approach where we leverage 
+ the domain driven architecture to have an easy way to abstract how we stor
+ e and cache our data in order to build a performant GraphQL API.
+DTSTAMP:20220201T162612Z
+LOCATION:Main Room
+SUMMARY:Domain Driven Design with Django and GraphQL - Patrick Arminio
+URL:https://cfp.2021.djangocon.eu/2021/talk/JM9UY7/
+END:VEVENT
+END:VCALENDAR

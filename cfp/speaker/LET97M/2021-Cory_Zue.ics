@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//LET97M
+BEGIN:VEVENT
+UID:pretalx-2021-F7EZXH@cfp.2021.djangocon.eu
+DTSTART:20210603T093000Z
+DTEND:20210603T101500Z
+DESCRIPTION:Many Django developers are intimidated by "modern" JavaScript\,
+  and those that aren't tend to throw away much of Django and use it only a
+ s an API for a standalone JavaScript front end.\n\nThis talk will outline 
+ the options for using Django with a modern framework like React or Vue\, a
+ nd deep dive on everything you'd need to know to incorporate modern JavaSc
+ ript into a Django project without giving up Django's View/Template system
+ .\n\nIt will also highlight some of what you gain by embracing modern Java
+ Script.
+DTSTAMP:20220201T163258Z
+LOCATION:Main Room
+SUMMARY:Modern JavaScript for Django Developers - Cory Zue
+URL:https://cfp.2021.djangocon.eu/2021/talk/F7EZXH/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//VYNPNR
+BEGIN:VEVENT
+UID:pretalx-2021-VYNPNR@cfp.2021.djangocon.eu
+DTSTART:20210603T084500Z
+DTEND:20210603T093000Z
+DESCRIPTION:Django is growing some great async features and Channels has be
+ en great for handling websockets connecting from your visitor's browser. B
+ ut what happens when you need to do more? What if you want to keep long-ru
+ nning connections from Django to other websockets\, such as Discord server
+ s?  How do you do this and still leverage all the batteries included with 
+ Django? We will show an approach that makes this all possible and easy as 
+ a developer.
+DTSTAMP:20220201T162804Z
+LOCATION:Main Room
+SUMMARY:Hacking Django Channels for Fun (and Profit) - Calvin Hendryx-Parke
+ r
+URL:https://cfp.2021.djangocon.eu/2021/talk/VYNPNR/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//KXQPUU
+BEGIN:VEVENT
+UID:pretalx-2021-KXQPUU@cfp.2021.djangocon.eu
+DTSTART:20210603T080000Z
+DTEND:20210603T084500Z
+DESCRIPTION:What if we could build our front ends in Python too? Anvil is a
+  framework to get us there: no HTML\, JS\, CSS\, React\, Bootstrap or Webp
+ ack required!\n\nInstead\, how about a Python UI toolkit\, a drag-and-drop
+  designer\, and a full-stack runtime that doesn't require you to squeeze a
+ ll your application state over JSON and HTTP? Find out how it's done\, and
+  why I think it's a good idea.
+DTSTAMP:20220201T162803Z
+LOCATION:Main Room
+SUMMARY:Anvil: Full Stack Web with Nothing but Python - Meredydd Luff
+URL:https://cfp.2021.djangocon.eu/2021/talk/KXQPUU/
+END:VEVENT
+END:VCALENDAR

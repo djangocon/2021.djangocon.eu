@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//8STPQA
+BEGIN:VEVENT
+UID:pretalx-2021-NCTBUS@cfp.2021.djangocon.eu
+DTSTART:20210603T101500Z
+DTEND:20210603T110000Z
+DESCRIPTION:There are two main problems in implementing the Clean Architect
+ ure (CA) pattern with Django projects: developers are often not clear on w
+ hat a Clean Architecture would look like with Django and secondly the fram
+ ework itself resists adaption to the CA paradigm.
+DTSTAMP:20220201T163333Z
+LOCATION:Main Room
+SUMMARY:Clean Architecture with Django: Rethinking basic assumptions - Paul
+  Wolf
+URL:https://cfp.2021.djangocon.eu/2021/talk/NCTBUS/
+END:VEVENT
+END:VCALENDAR

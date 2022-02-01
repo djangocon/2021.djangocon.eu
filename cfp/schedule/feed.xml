@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom"><title>DjangoCon Europe 2021 schedule updates</title><link href="https://cfp.2021.djangocon.eu/2021/schedule/" rel="alternate"></link><link href="https://cfp.2021.djangocon.eu/2021/schedule/feed.xml" rel="self"></link><id>https://cfp.2021.djangocon.eu/2021/schedule/feed.xml</id><updated>2021-06-02T15:35:03.144458+00:00</updated><entry><title>New DjangoCon Europe 2021 schedule released (0.8)</title><link href="https://cfp.2021.djangocon.eu/2021/schedule/=version=0.8" rel="alternate"></link><published>2021-06-02T15:35:03.144458+00:00</published><id>https://cfp.2021.djangocon.eu/2021/schedule/=version=0.8</id><summary type="html">
+&lt;p&gt;
+
+    A new DjangoCon Europe 2021 schedule has been released!
+
+&lt;/p&gt;
+
+
+
+    
+        
+            &lt;p&gt;We have a new talk: 
+            
+                &lt;a href="/2021/talk/39Z3PC/"&gt;
+                    “From Development to Production, Getting Actionable Insights to Optimize Django Code Performance”
+                    
+                        by Jérôme Vieilledent
+                    
+                &lt;/a&gt;.
+            
+        &lt;/p&gt;
+    
+
+    
+
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2021 schedule released (0.7)</title><link href="https://cfp.2021.djangocon.eu/2021/schedule/=version=0.7" rel="alternate"></link><published>2021-06-02T15:30:25.657346+00:00</published><id>https://cfp.2021.djangocon.eu/2021/schedule/=version=0.7</id><summary type="html">
+&lt;p&gt;
+
+    A new DjangoCon Europe 2021 schedule has been released!
+
+&lt;/p&gt;
+
+
+
+    
+        &lt;p&gt;No changes are visible in this version, but be assured we&amp;#39;re working on cool new versions behind the scenes.&lt;/p&gt;
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2021 schedule released (0.6)</title><link href="https://cfp.2021.djangocon.eu/2021/schedule/=version=0.6" rel="alternate"></link><published>2021-06-02T15:20:42.085271+00:00</published><id>https://cfp.2021.djangocon.eu/2021/schedule/=version=0.6</id><summary type="html">
+&lt;p&gt;
+
+    A new DjangoCon Europe 2021 schedule has been released!
+
+&lt;/p&gt;
+
+
+
+    
+        &lt;p&gt;Nothing has changed, we just wanted to change the version name. It was going out of style.&lt;/p&gt;
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2021 schedule released (0.5)</title><link href="https://cfp.2021.djangocon.eu/2021/schedule/=version=0.5" rel="alternate"></link><published>2021-05-10T13:17:15.956127+00:00</published><id>https://cfp.2021.djangocon.eu/2021/schedule/=version=0.5</id><summary type="html">
+&lt;p&gt;
+
+    A new DjangoCon Europe 2021 schedule has been released!
+
+&lt;/p&gt;
+
+
+
+    
+        &lt;p&gt;No changes are visible in this version, but be assured we&amp;#39;re working on cool new versions behind the scenes.&lt;/p&gt;
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2021 schedule released (0.4)</title><link href="https://cfp.2021.djangocon.eu/2021/schedule/=version=0.4" rel="alternate"></link><published>2021-05-10T13:10:22.097435+00:00</published><id>https://cfp.2021.djangocon.eu/2021/schedule/=version=0.4</id><summary type="html">
+&lt;p&gt;
+
+    A new DjangoCon Europe 2021 schedule has been released!
+
+&lt;/p&gt;
+
+
+
+    
+        &lt;p&gt;No changes are visible in this version, but be assured we&amp;#39;re working on cool new versions behind the scenes.&lt;/p&gt;
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2021 schedule released (0.3)</title><link href="https://cfp.2021.djangocon.eu/2021/schedule/=version=0.3" rel="alternate"></link><published>2021-05-07T17:16:02.818847+00:00</published><id>https://cfp.2021.djangocon.eu/2021/schedule/=version=0.3</id><summary type="html">
+&lt;p&gt;
+
+    A new DjangoCon Europe 2021 schedule has been released!
+
+&lt;/p&gt;
+
+
+
+    
+
+    
+
+    
+        
+            &lt;p&gt;We had to move some talks, so if you were planning on seeing them, check their new dates or locations:&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/CTXYZE/"&gt;
+                    “Managing multiple Django services in a single repo”
+                    
+                        by Benjy Weinberger
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 3:45 p.m. → June 3, 2021, 3:30 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/SXFXBF/"&gt;
+                    “Cleanroom Software Engineering with Django”
+                    
+                        by Francisco J. López-Lira Hinojo
+                    
+                    &lt;/a&gt;
+                
+                (June 4, 2021, 12:20 p.m. → June 4, 2021, noon)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/VHFEDF/"&gt;
+                    “Migrations and understanding Django&amp;#39;s relationship with its database”
+                    
+                        by David Wobrock
+                    
+                    &lt;/a&gt;
+                
+                (June 4, 2021, 10:05 a.m. → June 4, 2021, 9:45 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/UBAQPR/"&gt;
+                    “Deploying a Django Virtual Event Platform Using Containers and Terraform”
+                    
+                        by Calvin Hendryx-Parker
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 5:20 p.m. → June 3, 2021, 5 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/LMWU8L/"&gt;
+                    “Getting started with React, GraphQL, and Django”
+                    
+                        by Aaron Bassett
+                    
+                    &lt;/a&gt;
+                
+                (June 2, 2021, 10 a.m. → June 2, 2021, 9:45 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/UUZQFJ/"&gt;
+                    “What about DjangoCon Europe 2022?”
+                    
+                        by David Vaz, Miguel Magalhães
+                    
+                    &lt;/a&gt;
+                
+                (June 4, 2021, 4:50 p.m. → June 4, 2021, 4:45 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/UQVXM9/"&gt;
+                    “Django Sketchnoting Challenge”
+                    
+                        by Sara Peeters
+                    
+                    &lt;/a&gt;
+                
+                (June 2, 2021, 3:45 p.m. → June 2, 2021, 3:30 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/VJD9VP/"&gt;
+                    “Profiling Django &amp;amp; Python apps”
+                    
+                        by Jérôme Vieilledent, Sümer Cip
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 11:30 a.m. → June 3, 2021, 9:45 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/YXVTVE/"&gt;
+                    “Teaching cPython, Turtle Graphics,  and Jinja2 in the Browser”
+                    
+                        by Christopher Lozinski
+                    
+                    &lt;/a&gt;
+                
+                (June 2, 2021, 12:15 p.m. → June 2, 2021, noon)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/RW9FVH/"&gt;
+                    “Django Unstuck: Suggestions for common challenges in your projects”
+                    
+                        by Johannes Spielmann
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 11:30 a.m. → June 3, 2021, noon)
+                
+               &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2021 schedule released (0.2)</title><link href="https://cfp.2021.djangocon.eu/2021/schedule/=version=0.2" rel="alternate"></link><published>2021-05-07T16:22:50.936666+00:00</published><id>https://cfp.2021.djangocon.eu/2021/schedule/=version=0.2</id><summary type="html">
+&lt;p&gt;
+
+    A new DjangoCon Europe 2021 schedule has been released!
+
+&lt;/p&gt;
+
+
+
+    
+
+    
+
+    
+        
+            &lt;p&gt;We had to move some talks, so if you were planning on seeing them, check their new dates or locations:&lt;/p&gt;
+            &lt;ul&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/VYNPNR/"&gt;
+                    “Hacking Django Channels for Fun (and Profit)”
+                    
+                        by Calvin Hendryx-Parker
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 11 a.m. → June 3, 2021, 10:45 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/E8AYPU/"&gt;
+                    “Serving Files with Django”
+                    
+                        by Jochen Wersdörfer
+                    
+                    &lt;/a&gt;
+                
+                (June 4, 2021, 4:45 p.m. → June 4, 2021, 4:35 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/DMYMEE/"&gt;
+                    “Telepath - adding the missing link between Django and rich client apps”
+                    
+                        by Matt Westcott
+                    
+                    &lt;/a&gt;
+                
+                (June 2, 2021, 11:45 a.m. → June 2, 2021, 11:30 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/ECY3JD/"&gt;
+                    “Your very own real time chat with Django Channels”
+                    
+                        by Amanda Savluchinske
+                    
+                    &lt;/a&gt;
+                
+                (June 2, 2021, 11 a.m. → June 2, 2021, 10:45 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/PZ3KWB/"&gt;
+                    “HTMX: Frontend Revolution”
+                    
+                        by Thomas Güttler
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 3:15 p.m. → June 3, 2021, 3:05 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/EYKPU8/"&gt;
+                    “Unlocking the full potential of PostgreSQL indexes in Django”
+                    
+                        by Haki Benita
+                    
+                    &lt;/a&gt;
+                
+                (June 2, 2021, 10:15 a.m. → June 2, 2021, 10 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/QQJ9WB/"&gt;
+                    “Rewriting Django from (almost) scratch in 2021”
+                    
+                        by Emma Delescolle
+                    
+                    &lt;/a&gt;
+                
+                (June 4, 2021, 10:15 a.m. → June 4, 2021, 10 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/NBUHRU/"&gt;
+                    “Full-stack Django Rest Framework”
+                    
+                        by Israel da Silva Teixeira, Thiago Garcia da Silva
+                    
+                    &lt;/a&gt;
+                
+                (June 2, 2021, 3:15 p.m. → June 2, 2021, 3:05 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/F9J8CU/"&gt;
+                    “Writing Safe Database Migrations”
+                    
+                        by Markus Holtermann
+                    
+                    &lt;/a&gt;
+                
+                (June 2, 2021, 4 p.m. → June 2, 2021, 3:50 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/YY3LBL/"&gt;
+                    “Dynamic static sites with Django and Sphinx”
+                    
+                        by Carlton Gibson
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 9:30 a.m. → June 3, 2021, 9:15 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/KXQPUU/"&gt;
+                    “Anvil: Full Stack Web with Nothing but Python”
+                    
+                        by Meredydd Luff
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 10:15 a.m. → June 3, 2021, 10 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/SDMA7T/"&gt;
+                    “KEYNOTE | We&amp;#39;re all part of this: Jazzband 5 years later”
+                    
+                        by Jannis Leidel (he/him)
+                    
+                    &lt;/a&gt;
+                
+                (June 4, 2021, 2 p.m. → June 4, 2021, 1:50 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/TXENJP/"&gt;
+                    “Load Testing a Django Application using LocustIO”
+                    
+                        by Pranjal Jain, Vibhash Chandra
+                    
+                    &lt;/a&gt;
+                
+                (June 4, 2021, 12:30 p.m. → June 4, 2021, 12:15 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/SPQP39/"&gt;
+                    “Programming for pleasure”
+                    
+                        by Daniele Procida
+                    
+                    &lt;/a&gt;
+                
+                (June 2, 2021, 9:30 a.m. → June 2, 2021, 9:15 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/NUKNRB/"&gt;
+                    “Securing Django Applications”
+                    
+                        by Gajendra Deshpande
+                    
+                    &lt;/a&gt;
+                
+                (June 4, 2021, 5:30 p.m. → June 4, 2021, 5:20 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/PC7PZP/"&gt;
+                    “(A) SQL for Django”
+                    
+                        by Stefan Baerisch
+                    
+                    &lt;/a&gt;
+                
+                (June 2, 2021, 12:30 p.m. → June 2, 2021, 12:15 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/NCTBUS/"&gt;
+                    “Clean Architecture with Django: Rethinking basic assumptions”
+                    
+                        by Paul Wolf
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 12:30 p.m. → June 3, 2021, 12:15 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/APN93S/"&gt;
+                    “All about The Django Software Foundation (DSF)”
+                    
+                        by Anna Makarudze
+                    
+                    &lt;/a&gt;
+                
+                (June 4, 2021, 4 p.m. → June 4, 2021, 3:50 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/DXMJ8H/"&gt;
+                    “Django with PostgreSQL superpowers”
+                    
+                        by Paolo Melchiorre
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 4:45 p.m. → June 3, 2021, 4:35 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/F7EZXH/"&gt;
+                    “Modern JavaScript for Django Developers”
+                    
+                        by Cory Zue
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 11:45 a.m. → June 3, 2021, 11:30 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/FJLKVT/"&gt;
+                    “How to create a full-stack, reactive website in Django with absolutely no JavaScript”
+                    
+                        by Adam Hill
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 5:30 p.m. → June 3, 2021, 5:20 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/RE7AVL/"&gt;
+                    “You might not need a frontend framework”
+                    
+                        by Afonso Cerejeira
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 4 p.m. → June 3, 2021, 3:50 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/VCTVRB/"&gt;
+                    “KEYNOTE | Spreading our tentacles - taking a Django app global”
+                    
+                        by Frederike Jaeger
+                    
+                    &lt;/a&gt;
+                
+                (June 3, 2021, 2 p.m. → June 3, 2021, 1:50 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/TZ8E7H/"&gt;
+                    “KEYNOTE | How to be a djangonaut in a climate emergency”
+                    
+                        by Chris Adams
+                    
+                    &lt;/a&gt;
+                
+                (June 2, 2021, 2 p.m. → June 2, 2021, 1:50 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/PLFDVE/"&gt;
+                    “Hunting Performance in Django Code”
+                    
+                        by Sümer Cip
+                    
+                    &lt;/a&gt;
+                
+                (June 2, 2021, 4:45 p.m. → June 2, 2021, 4:35 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/JM9UY7/"&gt;
+                    “Domain Driven Design with Django and GraphQL”
+                    
+                        by Patrick Arminio
+                    
+                    &lt;/a&gt;
+                
+                (June 2, 2021, 5:30 p.m. → June 2, 2021, 5:20 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/7B9YYD/"&gt;
+                    “The request/response cycle - a Djangonautic journey”
+                    
+                        by Timothy McCurrach
+                    
+                    &lt;/a&gt;
+                
+                (June 4, 2021, 3:15 p.m. → June 4, 2021, 3:05 p.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/GWVRVA/"&gt;
+                    “Build, deploy and scale: Django, GraphQL and SPA”
+                    
+                        by dhilipsiva
+                    
+                    &lt;/a&gt;
+                
+                (June 4, 2021, 11:45 a.m. → June 4, 2021, 11:30 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/LKQSE7/"&gt;
+                    “Get interactive! Putting a shell (or a desktop) in your Django app”
+                    
+                        by Maari Tamm, Florian Haas
+                    
+                    &lt;/a&gt;
+                
+                (June 4, 2021, 11 a.m. → June 4, 2021, 10:45 a.m.)
+                
+               &lt;/li&gt;
+                
+                &lt;li&gt;&lt;a href="/2021/talk/NS9S7N/"&gt;
+                    “Speed up your tests with setUpTestData”
+                    
+                        by Adam Johnson
+                    
+                    &lt;/a&gt;
+                
+                (June 4, 2021, 9:30 a.m. → June 4, 2021, 9:15 a.m.)
+                
+               &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+
+</summary></entry><entry><title>New DjangoCon Europe 2021 schedule released (0.1)</title><link href="https://cfp.2021.djangocon.eu/2021/schedule/=version=0.1" rel="alternate"></link><published>2021-05-06T21:14:16.799761+00:00</published><id>https://cfp.2021.djangocon.eu/2021/schedule/=version=0.1</id><summary type="html">
+&lt;p&gt;
+
+    The first DjangoCon Europe 2021 schedule has been released!
+
+&lt;/p&gt;
+
+
+
+    
+        &lt;p&gt;This is where it all began.&lt;/p&gt;
+    
+
+
+</summary></entry></feed>

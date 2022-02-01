@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//YXVTVE
+BEGIN:VEVENT
+UID:pretalx-2021-YXVTVE@cfp.2021.djangocon.eu
+DTSTART:20210602T100000Z
+DTEND:20210602T105000Z
+DESCRIPTION:By the end of this class you will have the tools to teach Pytho
+ n\, Jinja2 and web development to a class of remote students.
+DTSTAMP:20220201T162647Z
+LOCATION:Secondary Room
+SUMMARY:Teaching cPython\, Turtle Graphics\,  and Jinja2 in the Browser - C
+ hristopher Lozinski
+URL:https://cfp.2021.djangocon.eu/2021/talk/YXVTVE/
+END:VEVENT
+END:VCALENDAR

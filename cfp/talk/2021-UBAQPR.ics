@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//UBAQPR
+BEGIN:VEVENT
+UID:pretalx-2021-UBAQPR@cfp.2021.djangocon.eu
+DTSTART:20210603T150000Z
+DTEND:20210603T153000Z
+DESCRIPTION:Learn to leverage cloud native tools and launch a scalable Pyth
+ on and Django application into the Cloud with Fargate. We’ll dive in wit
+ h how to getting up and running fast\, but leaving the overhead of managin
+ g virtual machines and Kubernetes behind. Create and store the application
+  Docker images in a container repository and without touching the AWS cons
+ ole we can create fully Infrastructure as Code automated deployments via C
+ odePipeline into Fargate containers and S3 buckets. Deliver the React appl
+ ication via CloudFront and S3 for full global scalability. Leave the legac
+ y deployments behind and forge bravely into the new world of Cloud Native 
+ applications.
+DTSTAMP:20220201T162844Z
+LOCATION:Secondary Room
+SUMMARY:Deploying a Django Virtual Event Platform Using Containers and Terr
+ aform - Calvin Hendryx-Parker
+URL:https://cfp.2021.djangocon.eu/2021/talk/UBAQPR/
+END:VEVENT
+END:VCALENDAR

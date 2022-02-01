@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//APN93S
+BEGIN:VEVENT
+UID:pretalx-2021-APN93S@cfp.2021.djangocon.eu
+DTSTART:20210604T135000Z
+DTEND:20210604T143500Z
+DESCRIPTION:The Django Software Foundation (DSF) is the independent foundat
+ ion established as a 501(c)(3) non-profit that supports the development of
+  Django. The goal of the DSF is to promote\, support\, and advance its ope
+ n-source project\, the Django Web framework. In my talk\, I will give an o
+ verview of what the DSF is doing to support the advancement of Django thro
+ ugh the various teams\, committees\, and boards that make up the foundatio
+ n. I will also talk about how to contribute to the advancement of Django t
+ hrough both code and non-code contributions.
+DTSTAMP:20220201T162923Z
+LOCATION:Main Room
+SUMMARY:All about The Django Software Foundation (DSF) - Anna Makarudze
+URL:https://cfp.2021.djangocon.eu/2021/talk/APN93S/
+END:VEVENT
+END:VCALENDAR

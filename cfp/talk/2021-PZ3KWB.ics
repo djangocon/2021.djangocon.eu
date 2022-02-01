@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//PZ3KWB
+BEGIN:VEVENT
+UID:pretalx-2021-PZ3KWB@cfp.2021.djangocon.eu
+DTSTART:20210603T130500Z
+DTEND:20210603T135000Z
+DESCRIPTION:HTMX is a tiny JavaScript library which helps you to avoid Java
+ Script. Instead of sending JSON over the wire (like React\, Vue\, ...) it 
+ sends HTML fragments over the wire.\n\nIt simplifies the toolchain and the
+  result are fast pages with good SEO (web vitals) scores.
+DTSTAMP:20220201T162823Z
+LOCATION:Main Room
+SUMMARY:HTMX: Frontend Revolution - Thomas Güttler
+URL:https://cfp.2021.djangocon.eu/2021/talk/PZ3KWB/
+END:VEVENT
+END:VCALENDAR

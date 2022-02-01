@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//QJWFKC
+BEGIN:VEVENT
+UID:pretalx-2021-F9J8CU@cfp.2021.djangocon.eu
+DTSTART:20210602T135000Z
+DTEND:20210602T143500Z
+DESCRIPTION:Whether you build Django projects or apps\, you won’t get pas
+ t database migrations. Let me show you some pitfalls\, potential problems\
+ , and how to write safe ones.
+DTSTAMP:20220201T163326Z
+LOCATION:Main Room
+SUMMARY:Writing Safe Database Migrations - Markus Holtermann
+URL:https://cfp.2021.djangocon.eu/2021/talk/F9J8CU/
+END:VEVENT
+END:VCALENDAR

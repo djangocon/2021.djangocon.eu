@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//QQJ9WB
+BEGIN:VEVENT
+UID:pretalx-2021-QQJ9WB@cfp.2021.djangocon.eu
+DTSTART:20210604T080000Z
+DTEND:20210604T084500Z
+DESCRIPTION:You're probably asking yourself "Why would someone wanna do tha
+ t?". Django is one of the most successful web frameworks out there\, the c
+ odebase is well established and well tested.\n\nThat is true. On the other
+  hand\, a codebase that old is bond to have some technical debt.\nIMHO\, D
+ jango's technical debt is mostly situated in the admin which is one of the
+  most appreciated features of Django while at the same time\, possessing t
+ he least people familiar with its internals or willing to learn them.\nAno
+ ther sort of technical debt is one that is backward compatibility and havi
+ ng to keep choices made more than a decade ago.
+DTSTAMP:20220201T162851Z
+LOCATION:Main Room
+SUMMARY:Rewriting Django from (almost) scratch in 2021 - Emma Delescolle
+URL:https://cfp.2021.djangocon.eu/2021/talk/QQJ9WB/
+END:VEVENT
+END:VCALENDAR

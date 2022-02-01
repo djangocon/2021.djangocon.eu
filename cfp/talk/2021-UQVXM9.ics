@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//UQVXM9
+BEGIN:VEVENT
+UID:pretalx-2021-UQVXM9@cfp.2021.djangocon.eu
+DTSTART:20210602T133000Z
+DTEND:20210602T142000Z
+DESCRIPTION:Sketchnoting is the process of taking visual notes by combining
+  symbolic illustrations and text. In this workshop we will learn the basic
+ s of sketchnoting first. And then we will make visual notes about Django c
+ oncepts! Grab a pencil and some paper\, and let's sketch!
+DTSTAMP:20220201T162719Z
+LOCATION:Secondary Room
+SUMMARY:Django Sketchnoting Challenge - Sara Peeters
+URL:https://cfp.2021.djangocon.eu/2021/talk/UQVXM9/
+END:VEVENT
+END:VCALENDAR

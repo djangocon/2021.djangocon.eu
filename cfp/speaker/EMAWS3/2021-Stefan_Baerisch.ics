@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//EMAWS3
+BEGIN:VEVENT
+UID:pretalx-2021-PC7PZP@cfp.2021.djangocon.eu
+DTSTART:20210602T101500Z
+DTEND:20210602T110000Z
+DESCRIPTION:Django's ORM is full-featured\,  simple to use\, and  well-suit
+ ed for almost all interactions with your database. But sometimes\, to get 
+ better performance or to get data in just the format that you need\, it is
+  useful to have the full expressiveness of SQL in your Django application.
+ \n\nIn this talk\, we will look at using SQL with Django. We will see in w
+ hich situations the use of SQL makes most sense. You will see the power of
+  SQL and the best ways to use SQL with Django.\n\nWe will start with a sho
+ rt review of SQL and of use cases for which SQL gives you more fine-graine
+ d control and better results than Djangos ORM. Then\, we look at raw SQL q
+ ueries and RawQuerySets. RawQuerySets make it possible to get model instan
+ ces with custom SQL. Finally\, we learn how to directly work with Django S
+ QL connections and use SQL change your data or get results that don't fit 
+ any particular model instance.
+DTSTAMP:20220201T163339Z
+LOCATION:Main Room
+SUMMARY:(A) SQL for Django - Stefan Baerisch
+URL:https://cfp.2021.djangocon.eu/2021/talk/PC7PZP/
+END:VEVENT
+END:VCALENDAR

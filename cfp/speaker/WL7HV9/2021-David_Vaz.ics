@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//WL7HV9
+BEGIN:VEVENT
+UID:pretalx-2021-UUZQFJ@cfp.2021.djangocon.eu
+DTSTART:20210604T144500Z
+DTEND:20210604T151500Z
+DESCRIPTION:We hosted the last two DjangoCon Europe 2020 and 2021. What abo
+ ut 2022? Who is next?\n\nWe will share our experience over the last two ye
+ ars\, the good the bad and the ugly.\n\nDjangoCon Europe will go on and fo
+ llowing the tradition we will pass over the olympic torch to whoever wants
+  to continue.\n\nThe first step is to apply with DSF\, but during the subm
+ ission you will already need to have a general Idea of the overall organiz
+ ation.
+DTSTAMP:20220201T163301Z
+LOCATION:Secondary Room
+SUMMARY:What about DjangoCon Europe 2022? - David Vaz\, Miguel Magalhães
+URL:https://cfp.2021.djangocon.eu/2021/talk/UUZQFJ/
+END:VEVENT
+END:VCALENDAR

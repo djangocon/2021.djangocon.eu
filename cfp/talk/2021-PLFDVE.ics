@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//PLFDVE
+BEGIN:VEVENT
+UID:pretalx-2021-PLFDVE@cfp.2021.djangocon.eu
+DTSTART:20210602T143500Z
+DTEND:20210602T152000Z
+DESCRIPTION:This talk aims to explain the core concepts/use cases of variou
+ s profilers in Python/Django world. I will walk over the different types o
+ f profilers and the basic use cases for them. The variance in Python Profi
+ ling tools we have today can actually be very useful if you know how and w
+ hen to use them.
+DTSTAMP:20220201T162550Z
+LOCATION:Main Room
+SUMMARY:Hunting Performance in Django Code - Sümer Cip
+URL:https://cfp.2021.djangocon.eu/2021/talk/PLFDVE/
+END:VEVENT
+END:VCALENDAR

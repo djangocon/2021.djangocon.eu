@@ -1,0 +1,210 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from cfp.2021.djangocon.eu/2021/talk/LKQSE7/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Feb 2022 16:28:52 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>Get interactive! Putting a shell (or a desktop) in your Django app ::  DjangoCon Europe 2021 :: pretalx</title>
+    <meta name="title" content="Get interactive! Putting a shell (or a desktop) in your Django app  - DjangoCon Europe 2021 pretalx">
+    <meta name="description" content="In our [City Cloud Academy](https://academy.citycloud.com) learning platform, we enable learners to interact with real-world hands-on lab environments, so that they can learn complex technologies like OpenStack, Kubernetes, Terraform, Ceph, Ansible, and others. To do that, we use [Apache Guacamole](https://guacamole.apache.org/)&#39;s `guacd` service to provide learners with interactive shell terminals — or even full desktop environments — that run right in people&#39;s browsers, no additional software required.
+
+The Guacamole platform is normally deployed in conjunction with [a Java servlet environment](https://guacamole.apache.org/doc/gug/guacamole-architecture.html#web-application) (commonly Apache Tomcat). But the Guacamole protocol is not tied to the Java language in any way, and a Python websocket proxy ([pyguacamole](https://pypi.org/project/pyguacamole/)) is readily available under an open source (MIT) license.
+
+In this talk, we discuss how we implemented a learning platform (based on [Open edX](https://open.edx.org)) that deploys an ASGI service under [Daphne](https://docs.djangoproject.com/en/3.1/howto/deployment/asgi/daphne/), uses pyguacamole to provide an asynchronous websocket connection to a Guacamole service, and thus creates a highly scalable, interactive, and immersive learning environment that helps people learn complex technology with no hardware or cloud investment at all.
+
+## Slides
+
+The slides (with full speaker notes) are up at &lt;https://fghaas.github.io/djceu2021/&gt; and &lt;https://mrtmm.github.io/djceu2021/&gt;.
+
+Video: https://www.youtube.com/watch?v=wB9FTwH-GTY&amp;ab_channel=DjangoConEurope">
+    <meta name="application-name" content="pretalx">
+    <meta name="generator" content="pretalx">
+    <meta name="keywords" content="DjangoCon Europe 2021, 2021, 2021, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#120E3D">
+    <meta name="HandheldFriendly" content="True"/>
+    <meta property="thumbnail" content="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png">
+    <meta property="og:image" content="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png">
+    <meta property="og:title" content="Get interactive! Putting a shell (or a desktop) in your Django app DjangoCon Europe 2021">
+    <meta property="og:description" content="In our [City Cloud Academy](https://academy.citycloud.com) learning platform, we enable learners to interact with real-world hands-on lab environments, so that they can learn complex technologies like OpenStack, Kubernetes, Terraform, Ceph, Ansible, and others. To do that, we use [Apache Guacamole](https://guacamole.apache.org/)&#39;s `guacd` service to provide learners with interactive shell terminals — or even full desktop environments — that run right in people&#39;s browsers, no additional software required.
+
+The Guacamole platform is normally deployed in conjunction with [a Java servlet environment](https://guacamole.apache.org/doc/gug/guacamole-architecture.html#web-application) (commonly Apache Tomcat). But the Guacamole protocol is not tied to the Java language in any way, and a Python websocket proxy ([pyguacamole](https://pypi.org/project/pyguacamole/)) is readily available under an open source (MIT) license.
+
+In this talk, we discuss how we implemented a learning platform (based on [Open edX](https://open.edx.org)) that deploys an ASGI service under [Daphne](https://docs.djangoproject.com/en/3.1/howto/deployment/asgi/daphne/), uses pyguacamole to provide an asynchronous websocket connection to a Guacamole service, and thus creates a highly scalable, interactive, and immersive learning environment that helps people learn complex technology with no hardware or cloud investment at all.
+
+## Slides
+
+The slides (with full speaker notes) are up at &lt;https://fghaas.github.io/djceu2021/&gt; and &lt;https://mrtmm.github.io/djceu2021/&gt;.
+
+Video: https://www.youtube.com/watch?v=wB9FTwH-GTY&amp;ab_channel=DjangoConEurope">
+    <meta property="og:url" content="index.html">
+    <meta property="twitter:card" content="summary">
+
+    
+    <link rel="icon" type="image/png" sizes="32x32" href="../../../cfp-static/common/img/favicon-32x32.816e12963927.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../../cfp-static/common/img/favicon-16x16.b1e178982893.png">
+    
+
+    <link rel="stylesheet" type="text/css" href="../../../cfp-static/common/scss/uncompressed.ec8d16cc3696.css" />
+    
+        <link rel="stylesheet" type="text/css" href="../../../cfp-static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+        <link rel="stylesheet" type="text/css" href="../../../cfp-media/djangocon-2020/cfp.ff24a3f080cf5b33.css"/>
+        <link rel="stylesheet" type="text/css" href="../../../cfp-media/djangocon-2020/agenda.db276abdb6c8be4d.css"/>
+    
+    <link rel="stylesheet" type="text/css" href="../../../cfp-media/2021/css/2021_cD6cAma.css"/>
+    <script type="text/javascript" src="../../../cfp-static/CACHE/js/output.5b270a5bf623.js" defer></script>
+    
+    
+    <link rel="alternate" type="application/json" title="DjangoCon Europe 2021 API" href="https://cfp.2021.djangocon.eu/api/events/2021/talks/LKQSE7" />
+
+    
+    
+
+</head>
+<body>
+    <div id="top-bg" class="header bg-primary">
+    
+        <img src="../../../cfp-media/2021/img/background.842747ab4615_9pdR39O.jpg" id="header-image">
+    
+    </div>
+    
+    <div class="container" id="main-container">
+        <header>
+            <h1>
+                <a href="../../schedule/index.html">
+                    
+                    <img src="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png" id="event-logo" alt="The event's logo">
+                    
+                </a>
+            </h1>
+            <div class="d-flex" id="header-row">
+            
+            
+                <a href="../../login/index.html">login</a>
+            
+            </div>
+        </header>
+        <div class="card" id="main-card">
+            <main>
+                
+
+                
+    
+    
+<article>
+    <h3 class="talk-title">
+        <div class="heading-with-buttons">
+        Get interactive! Putting a shell (or a desktop) in your Django app
+        <div class="buttons" id="talk-buttons">
+            
+            <a class="btn btn-outline-primary" href="../2021-LKQSE7.ics">
+                <i class="fa fa-calendar"></i> .ical
+            </a>
+            
+            
+                <a href="feedback/index.html"
+                        class="btn btn-success">
+                    <i class="fa fa-comments"></i> Feedback
+                </a>
+            
+            
+        </div>
+        </div>
+        <small>
+            
+                2021-06-04, 10:45–11:30, Main Room
+            
+            
+        </small>
+    </h3>
+    <div class="talk row">
+        <div class="talk-content col-lg-8 col-md-6 col-xs-12">
+            
+            
+            <section class="abstract">
+                <p>How to make your Django app speak SSH or RDP with Guacamole, ASGI and Daphne — giving anyone a console or a desktop right in their browser!</p>
+            </section>
+            
+            <hr />
+            
+            <section class="description">
+                <p>In our <a href="https://academy.citycloud.com/" rel="nofollow">City Cloud Academy</a> learning platform, we enable learners to interact with real-world hands-on lab environments, so that they can learn complex technologies like OpenStack, Kubernetes, Terraform, Ceph, Ansible, and others. To do that, we use <a href="https://guacamole.apache.org/" rel="nofollow">Apache Guacamole</a>'s <code>guacd</code> service to provide learners with interactive shell terminals — or even full desktop environments — that run right in people's browsers, no additional software required.</p>
+<p>The Guacamole platform is normally deployed in conjunction with <a href="https://guacamole.apache.org/doc/gug/guacamole-architecture.html#web-application" rel="nofollow">a Java servlet environment</a> (commonly Apache Tomcat). But the Guacamole protocol is not tied to the Java language in any way, and a Python websocket proxy (<a href="https://pypi.org/project/pyguacamole/" rel="nofollow">pyguacamole</a>) is readily available under an open source (MIT) license.</p>
+<p>In this talk, we discuss how we implemented a learning platform (based on <a href="https://open.edx.org/" rel="nofollow">Open edX</a>) that deploys an ASGI service under <a href="https://docs.djangoproject.com/en/3.1/howto/deployment/asgi/daphne/" rel="nofollow">Daphne</a>, uses pyguacamole to provide an asynchronous websocket connection to a Guacamole service, and thus creates a highly scalable, interactive, and immersive learning environment that helps people learn complex technology with no hardware or cloud investment at all.</p>
+<h2>Slides</h2>
+<p>The slides (with full speaker notes) are up at <a href="https://fghaas.github.io/djceu2021/" rel="nofollow">https://fghaas.github.io/djceu2021/</a> and <a href="https://mrtmm.github.io/djceu2021/" rel="nofollow">https://mrtmm.github.io/djceu2021/</a>.</p>
+<p>Video: <a href="https://www.youtube.com/watch?v=wB9FTwH-GTY&amp;ab_channel=DjangoConEurope" rel="nofollow">https://www.youtube.com/watch?v=wB9FTwH-GTY&amp;ab_channel=DjangoConEurope</a></p>
+            </section>
+            
+            </section>
+            
+        </div>
+        <aside class="col-lg-4 col-md-6 col-xs-12">
+            
+            
+            <div class="speakers">
+                <div class="speaker-header">
+                    
+                        Speakers
+                    
+                </div>
+                
+                    <div class="speaker">
+                        <a href="../../speaker/VYKWDV/index.html">
+                            <div class="name">
+                                Maari Tamm
+                            </div>
+                        </a>
+                        <div class="info">
+                            
+                        </div>
+                    </div>
+                
+                    <div class="speaker">
+                        <a href="../../speaker/SPQDUH/index.html">
+                            <div class="name">
+                                Florian Haas
+                            </div>
+                        </a>
+                        <div class="info">
+                            
+                        </div>
+                    </div>
+                
+            </div>
+            
+            
+        </aside>
+    </div>
+</article>
+
+
+            </main>
+        </div>
+        <footer>
+            
+            <a href="http://pretalx.com/" target="_blank" rel="noopener">
+                <img src="../../../cfp-static/common/img/logo.c86a874657c9.svg" alt="The pretalx logo">
+            </a>
+            
+                &middot;
+                <a href="mailto:content@djangocon.eu">Contact us</a>
+            
+            
+                &middot;
+                <a href="https://2021.djangocon.eu/conduct/privacy_guide/" target="_blank" rel="noopener">Imprint</a>
+            
+            
+        </footer>
+    </div>
+</body>
+
+<!-- Mirrored from cfp.2021.djangocon.eu/2021/talk/LKQSE7/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Feb 2022 16:28:53 GMT -->
+</html>

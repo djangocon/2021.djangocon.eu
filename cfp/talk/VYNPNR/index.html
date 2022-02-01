@@ -1,0 +1,283 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from cfp.2021.djangocon.eu/2021/talk/VYNPNR/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Feb 2022 16:28:04 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>Hacking Django Channels for Fun (and Profit) ::  DjangoCon Europe 2021 :: pretalx</title>
+    <meta name="title" content="Hacking Django Channels for Fun (and Profit)  - DjangoCon Europe 2021 pretalx">
+    <meta name="description" content="- Intro and Backstory on Django Channels history — 3%
+    - Synchronous vs Async Request Loops
+    - WSGI vs ASGI for your Django Application
+- Intro to WebSockets — 3%
+    - Demo of them used in the real world web applications
+    - How they interact with async event loops
+- Django Channels Core Concepts — 10%
+    - Consumers
+    - Channel Layers
+    - Background Workers
+- Consumers and ASGI Routing Example — 10%
+- Where to Background Workers Fit? — 10%
+    - Lightweight Tasks
+    - Considerations when reliability is not needed
+- How about reversing the Consumer use case? — 20%
+    - Create long-running Background Workers
+    - Connect to remote services such as Discord to create Bots
+- Example application integration with Discord — 20%
+    - Connect to Discord on start and listen for messages and other events
+    - Send our own application messages into Discord
+- Building your own long-running Channel Worker — 20%
+    - What to add to your project
+    - Define channel background tasks to run at start
+- Next steps for this project — 2%
+    - Upstream or create Channels addon to make this functionality more generic
+    - Add ability to define one-shot tasks
+    - Add ability to define post-job tasks to run on stop
+- Conclusion — 2%
+
+Video: https://www.youtube.com/watch?v=DK74vjuhpuM&amp;ab_channel=DjangoConEurope">
+    <meta name="application-name" content="pretalx">
+    <meta name="generator" content="pretalx">
+    <meta name="keywords" content="DjangoCon Europe 2021, 2021, 2021, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#120E3D">
+    <meta name="HandheldFriendly" content="True"/>
+    <meta property="thumbnail" content="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png">
+    <meta property="og:image" content="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png">
+    <meta property="og:title" content="Hacking Django Channels for Fun (and Profit) DjangoCon Europe 2021">
+    <meta property="og:description" content="- Intro and Backstory on Django Channels history — 3%
+    - Synchronous vs Async Request Loops
+    - WSGI vs ASGI for your Django Application
+- Intro to WebSockets — 3%
+    - Demo of them used in the real world web applications
+    - How they interact with async event loops
+- Django Channels Core Concepts — 10%
+    - Consumers
+    - Channel Layers
+    - Background Workers
+- Consumers and ASGI Routing Example — 10%
+- Where to Background Workers Fit? — 10%
+    - Lightweight Tasks
+    - Considerations when reliability is not needed
+- How about reversing the Consumer use case? — 20%
+    - Create long-running Background Workers
+    - Connect to remote services such as Discord to create Bots
+- Example application integration with Discord — 20%
+    - Connect to Discord on start and listen for messages and other events
+    - Send our own application messages into Discord
+- Building your own long-running Channel Worker — 20%
+    - What to add to your project
+    - Define channel background tasks to run at start
+- Next steps for this project — 2%
+    - Upstream or create Channels addon to make this functionality more generic
+    - Add ability to define one-shot tasks
+    - Add ability to define post-job tasks to run on stop
+- Conclusion — 2%
+
+Video: https://www.youtube.com/watch?v=DK74vjuhpuM&amp;ab_channel=DjangoConEurope">
+    <meta property="og:url" content="index.html">
+    <meta property="twitter:card" content="summary">
+
+    
+    <link rel="icon" type="image/png" sizes="32x32" href="../../../cfp-static/common/img/favicon-32x32.816e12963927.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../../cfp-static/common/img/favicon-16x16.b1e178982893.png">
+    
+
+    <link rel="stylesheet" type="text/css" href="../../../cfp-static/common/scss/uncompressed.ec8d16cc3696.css" />
+    
+        <link rel="stylesheet" type="text/css" href="../../../cfp-static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+        <link rel="stylesheet" type="text/css" href="../../../cfp-media/djangocon-2020/cfp.ff24a3f080cf5b33.css"/>
+        <link rel="stylesheet" type="text/css" href="../../../cfp-media/djangocon-2020/agenda.db276abdb6c8be4d.css"/>
+    
+    <link rel="stylesheet" type="text/css" href="../../../cfp-media/2021/css/2021_cD6cAma.css"/>
+    <script type="text/javascript" src="../../../cfp-static/CACHE/js/output.5b270a5bf623.js" defer></script>
+    
+    
+    <link rel="alternate" type="application/json" title="DjangoCon Europe 2021 API" href="https://cfp.2021.djangocon.eu/api/events/2021/talks/VYNPNR" />
+
+    
+    
+
+</head>
+<body>
+    <div id="top-bg" class="header bg-primary">
+    
+        <img src="../../../cfp-media/2021/img/background.842747ab4615_9pdR39O.jpg" id="header-image">
+    
+    </div>
+    
+    <div class="container" id="main-container">
+        <header>
+            <h1>
+                <a href="../../schedule/index.html">
+                    
+                    <img src="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png" id="event-logo" alt="The event's logo">
+                    
+                </a>
+            </h1>
+            <div class="d-flex" id="header-row">
+            
+            
+                <a href="../../login/index.html">login</a>
+            
+            </div>
+        </header>
+        <div class="card" id="main-card">
+            <main>
+                
+
+                
+    
+    
+<article>
+    <h3 class="talk-title">
+        <div class="heading-with-buttons">
+        Hacking Django Channels for Fun (and Profit)
+        <div class="buttons" id="talk-buttons">
+            
+            <a class="btn btn-outline-primary" href="../2021-VYNPNR.ics">
+                <i class="fa fa-calendar"></i> .ical
+            </a>
+            
+            
+                <a href="feedback/index.html"
+                        class="btn btn-success">
+                    <i class="fa fa-comments"></i> Feedback
+                </a>
+            
+            
+        </div>
+        </div>
+        <small>
+            
+                2021-06-03, 10:45–11:30, Main Room
+            
+            
+        </small>
+    </h3>
+    <div class="talk row">
+        <div class="talk-content col-lg-8 col-md-6 col-xs-12">
+            
+            
+            <section class="abstract">
+                <p>Django is growing some great async features and Channels has been great for handling websockets connecting from your visitor's browser. But what happens when you need to do more? What if you want to keep long-running connections from Django to other websockets, such as Discord servers?  How do you do this and still leverage all the batteries included with Django? We will show an approach that makes this all possible and easy as a developer.</p>
+            </section>
+            
+            <hr />
+            
+            <section class="description">
+                <ul>
+<li>Intro and Backstory on Django Channels history — 3%<ul>
+<li>Synchronous vs Async Request Loops</li>
+<li>WSGI vs ASGI for your Django Application</li>
+</ul>
+</li>
+<li>Intro to WebSockets — 3%<ul>
+<li>Demo of them used in the real world web applications</li>
+<li>How they interact with async event loops</li>
+</ul>
+</li>
+<li>Django Channels Core Concepts — 10%<ul>
+<li>Consumers</li>
+<li>Channel Layers</li>
+<li>Background Workers</li>
+</ul>
+</li>
+<li>Consumers and ASGI Routing Example — 10%</li>
+<li>Where to Background Workers Fit? — 10%<ul>
+<li>Lightweight Tasks</li>
+<li>Considerations when reliability is not needed</li>
+</ul>
+</li>
+<li>How about reversing the Consumer use case? — 20%<ul>
+<li>Create long-running Background Workers</li>
+<li>Connect to remote services such as Discord to create Bots</li>
+</ul>
+</li>
+<li>Example application integration with Discord — 20%<ul>
+<li>Connect to Discord on start and listen for messages and other events</li>
+<li>Send our own application messages into Discord</li>
+</ul>
+</li>
+<li>Building your own long-running Channel Worker — 20%<ul>
+<li>What to add to your project</li>
+<li>Define channel background tasks to run at start</li>
+</ul>
+</li>
+<li>Next steps for this project — 2%<ul>
+<li>Upstream or create Channels addon to make this functionality more generic</li>
+<li>Add ability to define one-shot tasks</li>
+<li>Add ability to define post-job tasks to run on stop</li>
+</ul>
+</li>
+<li>Conclusion — 2%</li>
+</ul>
+<p>Video: <a href="https://www.youtube.com/watch?v=DK74vjuhpuM&amp;ab_channel=DjangoConEurope" rel="nofollow">https://www.youtube.com/watch?v=DK74vjuhpuM&amp;ab_channel=DjangoConEurope</a></p>
+            </section>
+            
+            </section>
+            
+        </div>
+        <aside class="col-lg-4 col-md-6 col-xs-12">
+            
+            
+            <div class="speakers">
+                <div class="speaker-header">
+                    
+                        Speaker
+                    
+                </div>
+                
+                    <div class="speaker">
+                        <a href="../../speaker/QDNRLH/index.html">
+                            <div class="name">
+                                Calvin Hendryx-Parker
+                            </div>
+                        </a>
+                        <div class="info">
+                            
+                                <span class="speaker-talk">
+                                    This speaker also holds:
+                                    "<a href='../UBAQPR/index.html'>Deploying a Django Virtual Event Platform Using Containers and Terraform</a>".
+                                </span>
+                            
+                        </div>
+                    </div>
+                
+            </div>
+            
+            
+        </aside>
+    </div>
+</article>
+
+
+            </main>
+        </div>
+        <footer>
+            
+            <a href="http://pretalx.com/" target="_blank" rel="noopener">
+                <img src="../../../cfp-static/common/img/logo.c86a874657c9.svg" alt="The pretalx logo">
+            </a>
+            
+                &middot;
+                <a href="mailto:content@djangocon.eu">Contact us</a>
+            
+            
+                &middot;
+                <a href="https://2021.djangocon.eu/conduct/privacy_guide/" target="_blank" rel="noopener">Imprint</a>
+            
+            
+        </footer>
+    </div>
+</body>
+
+<!-- Mirrored from cfp.2021.djangocon.eu/2021/talk/VYNPNR/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Feb 2022 16:28:05 GMT -->
+</html>

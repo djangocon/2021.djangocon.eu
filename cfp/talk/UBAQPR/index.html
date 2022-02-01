@@ -1,0 +1,260 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from cfp.2021.djangocon.eu/2021/talk/UBAQPR/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Feb 2022 16:28:44 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>Deploying a Django Virtual Event Platform Using Containers and Terraform ::  DjangoCon Europe 2021 :: pretalx</title>
+    <meta name="title" content="Deploying a Django Virtual Event Platform Using Containers and Terraform  - DjangoCon Europe 2021 pretalx">
+    <meta name="description" content="- Intro to Cloud Native deployment — 10%
+    - Hitchhikers Guide to Cloud Native vocabulary
+- Laying the groundwork for going Cloud Native — 10%
+    - Containerizing your app
+    - Preparing your image for production
+- Building the pipeline — 20%
+    - Sketching out your infrastructure
+    - Moving to Terraform
+    - Creating a CI/CD workflow
+- Playing with Building Blocks — 20%
+    - Leveraging AWS Cloud Components for Delivery
+    - Using Environment Variables and keeping Secrets
+- Scaling Considerations, Load Balancers and CDNs — 20%
+    - Many routes behind one URL
+    - Enable effective caching
+    - Keep things on a need to know basis (only pass what you need)
+- Load Testing — 10%
+    - Build test plans with Locust.io (Python powered!)
+    - Testing and debugging load tests with remote PDB
+- Conclusion — 10%
+
+Sponsored by Loudswarm
+
+Video: https://www.youtube.com/watch?v=XdH6urrt0F8&amp;ab_channel=DjangoConEurope">
+    <meta name="application-name" content="pretalx">
+    <meta name="generator" content="pretalx">
+    <meta name="keywords" content="DjangoCon Europe 2021, 2021, 2021, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#120E3D">
+    <meta name="HandheldFriendly" content="True"/>
+    <meta property="thumbnail" content="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png">
+    <meta property="og:image" content="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png">
+    <meta property="og:title" content="Deploying a Django Virtual Event Platform Using Containers and Terraform DjangoCon Europe 2021">
+    <meta property="og:description" content="- Intro to Cloud Native deployment — 10%
+    - Hitchhikers Guide to Cloud Native vocabulary
+- Laying the groundwork for going Cloud Native — 10%
+    - Containerizing your app
+    - Preparing your image for production
+- Building the pipeline — 20%
+    - Sketching out your infrastructure
+    - Moving to Terraform
+    - Creating a CI/CD workflow
+- Playing with Building Blocks — 20%
+    - Leveraging AWS Cloud Components for Delivery
+    - Using Environment Variables and keeping Secrets
+- Scaling Considerations, Load Balancers and CDNs — 20%
+    - Many routes behind one URL
+    - Enable effective caching
+    - Keep things on a need to know basis (only pass what you need)
+- Load Testing — 10%
+    - Build test plans with Locust.io (Python powered!)
+    - Testing and debugging load tests with remote PDB
+- Conclusion — 10%
+
+Sponsored by Loudswarm
+
+Video: https://www.youtube.com/watch?v=XdH6urrt0F8&amp;ab_channel=DjangoConEurope">
+    <meta property="og:url" content="index.html">
+    <meta property="twitter:card" content="summary">
+
+    
+    <link rel="icon" type="image/png" sizes="32x32" href="../../../cfp-static/common/img/favicon-32x32.816e12963927.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../../cfp-static/common/img/favicon-16x16.b1e178982893.png">
+    
+
+    <link rel="stylesheet" type="text/css" href="../../../cfp-static/common/scss/uncompressed.ec8d16cc3696.css" />
+    
+        <link rel="stylesheet" type="text/css" href="../../../cfp-static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+        <link rel="stylesheet" type="text/css" href="../../../cfp-media/djangocon-2020/cfp.ff24a3f080cf5b33.css"/>
+        <link rel="stylesheet" type="text/css" href="../../../cfp-media/djangocon-2020/agenda.db276abdb6c8be4d.css"/>
+    
+    <link rel="stylesheet" type="text/css" href="../../../cfp-media/2021/css/2021_cD6cAma.css"/>
+    <script type="text/javascript" src="../../../cfp-static/CACHE/js/output.5b270a5bf623.js" defer></script>
+    
+    
+    <link rel="alternate" type="application/json" title="DjangoCon Europe 2021 API" href="https://cfp.2021.djangocon.eu/api/events/2021/talks/UBAQPR" />
+
+    
+    
+
+</head>
+<body>
+    <div id="top-bg" class="header bg-primary">
+    
+        <img src="../../../cfp-media/2021/img/background.842747ab4615_9pdR39O.jpg" id="header-image">
+    
+    </div>
+    
+    <div class="container" id="main-container">
+        <header>
+            <h1>
+                <a href="../../schedule/index.html">
+                    
+                    <img src="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png" id="event-logo" alt="The event's logo">
+                    
+                </a>
+            </h1>
+            <div class="d-flex" id="header-row">
+            
+            
+                <a href="../../login/index.html">login</a>
+            
+            </div>
+        </header>
+        <div class="card" id="main-card">
+            <main>
+                
+
+                
+    
+    
+<article>
+    <h3 class="talk-title">
+        <div class="heading-with-buttons">
+        Deploying a Django Virtual Event Platform Using Containers and Terraform
+        <div class="buttons" id="talk-buttons">
+            
+            <a class="btn btn-outline-primary" href="../2021-UBAQPR.ics">
+                <i class="fa fa-calendar"></i> .ical
+            </a>
+            
+            
+                <a href="feedback/index.html"
+                        class="btn btn-success">
+                    <i class="fa fa-comments"></i> Feedback
+                </a>
+            
+            
+        </div>
+        </div>
+        <small>
+            
+                2021-06-03, 17:00–17:30, Secondary Room
+            
+            
+        </small>
+    </h3>
+    <div class="talk row">
+        <div class="talk-content col-lg-8 col-md-6 col-xs-12">
+            
+            
+            <section class="abstract">
+                <p>Learn to leverage cloud native tools and launch a scalable Python and Django application into the Cloud with Fargate. We’ll dive in with how to getting up and running fast, but leaving the overhead of managing virtual machines and Kubernetes behind. Create and store the application Docker images in a container repository and without touching the AWS console we can create fully Infrastructure as Code automated deployments via CodePipeline into Fargate containers and S3 buckets. Deliver the React application via CloudFront and S3 for full global scalability. Leave the legacy deployments behind and forge bravely into the new world of Cloud Native applications.</p>
+            </section>
+            
+            <hr />
+            
+            <section class="description">
+                <ul>
+<li>Intro to Cloud Native deployment — 10%<ul>
+<li>Hitchhikers Guide to Cloud Native vocabulary</li>
+</ul>
+</li>
+<li>Laying the groundwork for going Cloud Native — 10%<ul>
+<li>Containerizing your app</li>
+<li>Preparing your image for production</li>
+</ul>
+</li>
+<li>Building the pipeline — 20%<ul>
+<li>Sketching out your infrastructure</li>
+<li>Moving to Terraform</li>
+<li>Creating a CI/CD workflow</li>
+</ul>
+</li>
+<li>Playing with Building Blocks — 20%<ul>
+<li>Leveraging AWS Cloud Components for Delivery</li>
+<li>Using Environment Variables and keeping Secrets</li>
+</ul>
+</li>
+<li>Scaling Considerations, Load Balancers and CDNs — 20%<ul>
+<li>Many routes behind one URL</li>
+<li>Enable effective caching</li>
+<li>Keep things on a need to know basis (only pass what you need)</li>
+</ul>
+</li>
+<li>Load Testing — 10%<ul>
+<li>Build test plans with <a href="http://locust.io/" rel="nofollow">Locust.io</a> (Python powered!)</li>
+<li>Testing and debugging load tests with remote PDB</li>
+</ul>
+</li>
+<li>Conclusion — 10%</li>
+</ul>
+<p>Sponsored by Loudswarm</p>
+<p>Video: <a href="https://www.youtube.com/watch?v=XdH6urrt0F8&amp;ab_channel=DjangoConEurope" rel="nofollow">https://www.youtube.com/watch?v=XdH6urrt0F8&amp;ab_channel=DjangoConEurope</a></p>
+            </section>
+            
+            </section>
+            
+        </div>
+        <aside class="col-lg-4 col-md-6 col-xs-12">
+            
+            
+            <div class="speakers">
+                <div class="speaker-header">
+                    
+                        Speaker
+                    
+                </div>
+                
+                    <div class="speaker">
+                        <a href="../../speaker/QDNRLH/index.html">
+                            <div class="name">
+                                Calvin Hendryx-Parker
+                            </div>
+                        </a>
+                        <div class="info">
+                            
+                                <span class="speaker-talk">
+                                    This speaker also holds:
+                                    "<a href='../VYNPNR/index.html'>Hacking Django Channels for Fun (and Profit)</a>".
+                                </span>
+                            
+                        </div>
+                    </div>
+                
+            </div>
+            
+            
+        </aside>
+    </div>
+</article>
+
+
+            </main>
+        </div>
+        <footer>
+            
+            <a href="http://pretalx.com/" target="_blank" rel="noopener">
+                <img src="../../../cfp-static/common/img/logo.c86a874657c9.svg" alt="The pretalx logo">
+            </a>
+            
+                &middot;
+                <a href="mailto:content@djangocon.eu">Contact us</a>
+            
+            
+                &middot;
+                <a href="https://2021.djangocon.eu/conduct/privacy_guide/" target="_blank" rel="noopener">Imprint</a>
+            
+            
+        </footer>
+    </div>
+</body>
+
+<!-- Mirrored from cfp.2021.djangocon.eu/2021/talk/UBAQPR/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Feb 2022 16:28:45 GMT -->
+</html>

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//8E3TJL
+BEGIN:VEVENT
+UID:pretalx-2021-VHFEDF@cfp.2021.djangocon.eu
+DTSTART:20210604T074500Z
+DTEND:20210604T083500Z
+DESCRIPTION:Do _IntegrityError: NOT NULL constraint failed_\, _column canno
+ t be null_ or _OperationalError: no such column_ ring a bell? Most Django 
+ developers experience those either during development\, or worse\, in prod
+ uction. We'll explore the whys and wherefores of these problems and sugges
+ t some solutions in order to improve your experience with Django migration
+ s and make them seamless.\n\nSlides: https://drive.google.com/file/d/13wsg
+ 1yYWX0aJrLuA4a-GRnej42GBN1CK/view?usp=sharing
+DTSTAMP:20220201T163302Z
+LOCATION:Secondary Room
+SUMMARY:Migrations and understanding Django's relationship with its databas
+ e - David Wobrock
+URL:https://cfp.2021.djangocon.eu/2021/talk/VHFEDF/
+END:VEVENT
+END:VCALENDAR

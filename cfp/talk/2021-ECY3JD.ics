@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//ECY3JD
+BEGIN:VEVENT
+UID:pretalx-2021-ECY3JD@cfp.2021.djangocon.eu
+DTSTART:20210602T084500Z
+DTEND:20210602T093000Z
+DESCRIPTION:Does building your real time chat with Django sound fun to you?
+  Let’s get some help from Django Channels in order to do so. In this tal
+ k I’d like to illustrate how we can use Django Channels for various purp
+ oses by showcasing its concepts and diverse use cases.\n\nThis talk will c
+ over beginner topics around django-channels and will teach attendees the b
+ asics in order to build a simple real time chat using the library.
+DTSTAMP:20220201T162330Z
+LOCATION:Main Room
+SUMMARY:Your very own real time chat with Django Channels - Amanda Savluchi
+ nske
+URL:https://cfp.2021.djangocon.eu/2021/talk/ECY3JD/
+END:VEVENT
+END:VCALENDAR

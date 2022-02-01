@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//TZ8E7H
+BEGIN:VEVENT
+UID:pretalx-2021-TZ8E7H@cfp.2021.djangocon.eu
+DTSTART:20210602T115000Z
+DTEND:20210602T130500Z
+DESCRIPTION:The science on climate spells out the need for rapid\, far-reac
+ hing\, and unprecedented changes to how we work and live. What does this m
+ ean for the way we build digital services as djangonaugs?\n\nWe’ll explo
+ re what we can\, and should be doing as professional technologists in a cl
+ imate emergency\, the patterns emerging for more sustainable software engi
+ neering\, and what a django designed to be the best choice for building fu
+ ture climate tech services might look like.
+DTSTAMP:20220201T162440Z
+LOCATION:Main Room
+SUMMARY:KEYNOTE | How to be a djangonaut in a climate emergency - Chris Ada
+ ms
+URL:https://cfp.2021.djangocon.eu/2021/talk/TZ8E7H/
+END:VEVENT
+END:VCALENDAR

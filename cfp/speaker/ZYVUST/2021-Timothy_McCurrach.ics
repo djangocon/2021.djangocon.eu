@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//ZYVUST
+BEGIN:VEVENT
+UID:pretalx-2021-7B9YYD@cfp.2021.djangocon.eu
+DTSTART:20210604T130500Z
+DTEND:20210604T135000Z
+DESCRIPTION:A Django-layer-focused look at the classic interview question: 
+ "what happens when you click a link?". From the initial call to the reques
+ t handler\, through to what it finally returns\; a deep dive into Django's
+  handlers and middleware.
+DTSTAMP:20220201T163347Z
+LOCATION:Main Room
+SUMMARY:The request/response cycle - a Djangonautic journey - Timothy McCur
+ rach
+URL:https://cfp.2021.djangocon.eu/2021/talk/7B9YYD/
+END:VEVENT
+END:VCALENDAR

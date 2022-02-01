@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//G8BS3T
+BEGIN:VEVENT
+UID:pretalx-2021-TXENJP@cfp.2021.djangocon.eu
+DTSTART:20210604T101500Z
+DTEND:20210604T110000Z
+DESCRIPTION:Load testing is critical in the software development lifecycle 
+ as it evaluates application performance affected by normal and peak loads 
+ by simulating access and usage by multiple users concurrently. \n\nLocustI
+ O\, an open source tool written in python\, is used for load testing of we
+ b applications. It is simple and easy to use with web UI to view the test 
+ results. Let's make load testing quick and easy with LocustIO.
+DTSTAMP:20220201T163335Z
+LOCATION:Main Room
+SUMMARY:Load Testing a Django Application using LocustIO - Pranjal Jain\, V
+ ibhash Chandra
+URL:https://cfp.2021.djangocon.eu/2021/talk/TXENJP/
+END:VEVENT
+END:VCALENDAR

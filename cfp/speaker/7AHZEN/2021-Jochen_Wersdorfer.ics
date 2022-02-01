@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//7AHZEN
+BEGIN:VEVENT
+UID:pretalx-2021-E8AYPU@cfp.2021.djangocon.eu
+DTSTART:20210604T143500Z
+DTEND:20210604T152000Z
+DESCRIPTION:Is it possible to use just Django to serve static/cfp-media files? 
+ Even thousands of clients in parallel while saturating at least a 1Gbit li
+ nk? I believe it is :) (now).
+DTSTAMP:20220201T163320Z
+LOCATION:Main Room
+SUMMARY:Serving Files with Django - Jochen Wersdörfer
+URL:https://cfp.2021.djangocon.eu/2021/talk/E8AYPU/
+END:VEVENT
+END:VCALENDAR

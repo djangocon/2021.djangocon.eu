@@ -1,0 +1,621 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//
+BEGIN:VEVENT
+UID:pretalx-2021-SPQP39@cfp.2021.djangocon.eu
+DTSTART:20210602T071500Z
+DTEND:20210602T080000Z
+DESCRIPTION:As programmers\, we’re very lucky - our work is often creativ
+ e and enjoyable\, and the culture of programming itself is inventive and p
+ layful. Programming can be a pleasure in itself. What we don’t usually r
+ ecognise is that the effect of this is to make the software we create wors
+ e rather better. If we want to make better software\, we need to start pro
+ gramming not for pleasure\, but for pain.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Programming for pleasure - Daniele Procida
+URL:https://cfp.2021.djangocon.eu/2021/talk/SPQP39/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-LMWU8L@cfp.2021.djangocon.eu
+DTSTART:20210602T074500Z
+DTEND:20210602T083500Z
+DESCRIPTION:What is GraphQL? When would I use it instead of DRF? How does i
+ t work with my models? In this session\, we'll answer all these questions 
+ and more as we walk through a working example of a React\, GraphQL\, and D
+ jango application.
+DTSTAMP:20220201T162024Z
+LOCATION:Secondary Room
+SUMMARY:Getting started with React\, GraphQL\, and Django - Aaron Bassett
+URL:https://cfp.2021.djangocon.eu/2021/talk/LMWU8L/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-EYKPU8@cfp.2021.djangocon.eu
+DTSTART:20210602T080000Z
+DTEND:20210602T084500Z
+DESCRIPTION:Developers who are not familiar with databases often fear them\
+ , and prefer to treat them like a blackbox. Indexes are extremely powerful
+  and Django provides many ways of using indexes to make queries faster. \n
+ \nIn this talk I’ll present advanced indexing technics in PostgreSQL usi
+ ng the Django ORM.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Unlocking the full potential of PostgreSQL indexes in Django - Haki
+  Benita
+URL:https://cfp.2021.djangocon.eu/2021/talk/EYKPU8/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-ECY3JD@cfp.2021.djangocon.eu
+DTSTART:20210602T084500Z
+DTEND:20210602T093000Z
+DESCRIPTION:Does building your real time chat with Django sound fun to you?
+  Let’s get some help from Django Channels in order to do so. In this tal
+ k I’d like to illustrate how we can use Django Channels for various purp
+ oses by showcasing its concepts and diverse use cases.\n\nThis talk will c
+ over beginner topics around django-channels and will teach attendees the b
+ asics in order to build a simple real time chat using the library.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Your very own real time chat with Django Channels - Amanda Savluchi
+ nske
+URL:https://cfp.2021.djangocon.eu/2021/talk/ECY3JD/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-DMYMEE@cfp.2021.djangocon.eu
+DTSTART:20210602T093000Z
+DTEND:20210602T101500Z
+DESCRIPTION:Introducing a new approach to sharing data models between Pytho
+ n and JavaScript\, to help in building Django apps with rich client-side f
+ unctionality.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Telepath - adding the missing link between Django and rich client a
+ pps - Matt Westcott
+URL:https://cfp.2021.djangocon.eu/2021/talk/DMYMEE/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-YXVTVE@cfp.2021.djangocon.eu
+DTSTART:20210602T100000Z
+DTEND:20210602T105000Z
+DESCRIPTION:By the end of this class you will have the tools to teach Pytho
+ n\, Jinja2 and web development to a class of remote students.
+DTSTAMP:20220201T162024Z
+LOCATION:Secondary Room
+SUMMARY:Teaching cPython\, Turtle Graphics\,  and Jinja2 in the Browser - C
+ hristopher Lozinski
+URL:https://cfp.2021.djangocon.eu/2021/talk/YXVTVE/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-PC7PZP@cfp.2021.djangocon.eu
+DTSTART:20210602T101500Z
+DTEND:20210602T110000Z
+DESCRIPTION:Django's ORM is full-featured\,  simple to use\, and  well-suit
+ ed for almost all interactions with your database. But sometimes\, to get 
+ better performance or to get data in just the format that you need\, it is
+  useful to have the full expressiveness of SQL in your Django application.
+ \n\nIn this talk\, we will look at using SQL with Django. We will see in w
+ hich situations the use of SQL makes most sense. You will see the power of
+  SQL and the best ways to use SQL with Django.\n\nWe will start with a sho
+ rt review of SQL and of use cases for which SQL gives you more fine-graine
+ d control and better results than Djangos ORM. Then\, we look at raw SQL q
+ ueries and RawQuerySets. RawQuerySets make it possible to get model instan
+ ces with custom SQL. Finally\, we learn how to directly work with Django S
+ QL connections and use SQL change your data or get results that don't fit 
+ any particular model instance.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:(A) SQL for Django - Stefan Baerisch
+URL:https://cfp.2021.djangocon.eu/2021/talk/PC7PZP/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-TZ8E7H@cfp.2021.djangocon.eu
+DTSTART:20210602T115000Z
+DTEND:20210602T130500Z
+DESCRIPTION:The science on climate spells out the need for rapid\, far-reac
+ hing\, and unprecedented changes to how we work and live. What does this m
+ ean for the way we build digital services as djangonaugs?\n\nWe’ll explo
+ re what we can\, and should be doing as professional technologists in a cl
+ imate emergency\, the patterns emerging for more sustainable software engi
+ neering\, and what a django designed to be the best choice for building fu
+ ture climate tech services might look like.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:KEYNOTE | How to be a djangonaut in a climate emergency - Chris Ada
+ ms
+URL:https://cfp.2021.djangocon.eu/2021/talk/TZ8E7H/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-NBUHRU@cfp.2021.djangocon.eu
+DTSTART:20210602T130500Z
+DTEND:20210602T135000Z
+DESCRIPTION:In this talk\, we want to share our experience going beyond JSO
+ N APIs and using more Serializers and Renderers' features to create full-s
+ tack applications using Django Rest Framework
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Full-stack Django Rest Framework - Israel da Silva Teixeira\, Thiag
+ o Garcia da Silva
+URL:https://cfp.2021.djangocon.eu/2021/talk/NBUHRU/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-UQVXM9@cfp.2021.djangocon.eu
+DTSTART:20210602T133000Z
+DTEND:20210602T142000Z
+DESCRIPTION:Sketchnoting is the process of taking visual notes by combining
+  symbolic illustrations and text. In this workshop we will learn the basic
+ s of sketchnoting first. And then we will make visual notes about Django c
+ oncepts! Grab a pencil and some paper\, and let's sketch!
+DTSTAMP:20220201T162024Z
+LOCATION:Secondary Room
+SUMMARY:Django Sketchnoting Challenge - Sara Peeters
+URL:https://cfp.2021.djangocon.eu/2021/talk/UQVXM9/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-F9J8CU@cfp.2021.djangocon.eu
+DTSTART:20210602T135000Z
+DTEND:20210602T143500Z
+DESCRIPTION:Whether you build Django projects or apps\, you won’t get pas
+ t database migrations. Let me show you some pitfalls\, potential problems\
+ , and how to write safe ones.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Writing Safe Database Migrations - Markus Holtermann
+URL:https://cfp.2021.djangocon.eu/2021/talk/F9J8CU/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-PLFDVE@cfp.2021.djangocon.eu
+DTSTART:20210602T143500Z
+DTEND:20210602T152000Z
+DESCRIPTION:This talk aims to explain the core concepts/use cases of variou
+ s profilers in Python/Django world. I will walk over the different types o
+ f profilers and the basic use cases for them. The variance in Python Profi
+ ling tools we have today can actually be very useful if you know how and w
+ hen to use them.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Hunting Performance in Django Code - Sümer Cip
+URL:https://cfp.2021.djangocon.eu/2021/talk/PLFDVE/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-JM9UY7@cfp.2021.djangocon.eu
+DTSTART:20210602T152000Z
+DTEND:20210602T160500Z
+DESCRIPTION:Domain driven design is starting getting traction in the Python
+  world\, probably also thanks to Architecture Patterns with Python (https:
+ //www.cosmicpython.com/). \n\n\nIn this talk we will learn some basics of 
+ Domain Driven Design and how to apply the pattern when using Django and Gr
+ aphQL. We will see different approaches of modelling the domain\, and disc
+ uss the tradeoffs. We will discuss why this approach makes a lot of sense 
+ with GraphQL and finally we will see a complex approach where we leverage 
+ the domain driven architecture to have an easy way to abstract how we stor
+ e and cache our data in order to build a performant GraphQL API.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Domain Driven Design with Django and GraphQL - Patrick Arminio
+URL:https://cfp.2021.djangocon.eu/2021/talk/JM9UY7/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-YY3LBL@cfp.2021.djangocon.eu
+DTSTART:20210603T071500Z
+DTEND:20210603T080000Z
+DESCRIPTION:You're building a content site? Can't face a CMS? Well have the
+  best of all worlds!\n\nWrite your site content in Markdown. Manage it on 
+ the file system with git. \nUse all the power of Sphinx to build your site
+ \, but server it with Django. \n\nCross-referencing\, content super-powers
+  meet auth\, forms\, interactivity\, \ndynamic content and all the rest of
+  it. . \n\nYou don't have to choose\, and you don't have to roll your own 
+ either.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Dynamic static sites with Django and Sphinx - Carlton Gibson
+URL:https://cfp.2021.djangocon.eu/2021/talk/YY3LBL/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-VJD9VP@cfp.2021.djangocon.eu
+DTSTART:20210603T074500Z
+DTEND:20210603T083500Z
+DESCRIPTION:It is difficult to improve what is not measurable! Profiling an
+  application should always be the first step in trying to improve its perf
+ ormance. With this workshop\, learn how to identify performance issues in 
+ your application and adopt the best profiling practices in your daily deve
+ lopment habits. This workshop will use the Blackfire.io tool to help you i
+ dentify performance leaks.
+DTSTAMP:20220201T162024Z
+LOCATION:Secondary Room
+SUMMARY:Profiling Django & Python apps - Sümer Cip\, Jérôme Vieilledent
+URL:https://cfp.2021.djangocon.eu/2021/talk/VJD9VP/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-KXQPUU@cfp.2021.djangocon.eu
+DTSTART:20210603T080000Z
+DTEND:20210603T084500Z
+DESCRIPTION:What if we could build our front ends in Python too? Anvil is a
+  framework to get us there: no HTML\, JS\, CSS\, React\, Bootstrap or Webp
+ ack required!\n\nInstead\, how about a Python UI toolkit\, a drag-and-drop
+  designer\, and a full-stack runtime that doesn't require you to squeeze a
+ ll your application state over JSON and HTTP? Find out how it's done\, and
+  why I think it's a good idea.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Anvil: Full Stack Web with Nothing but Python - Meredydd Luff
+URL:https://cfp.2021.djangocon.eu/2021/talk/KXQPUU/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-VYNPNR@cfp.2021.djangocon.eu
+DTSTART:20210603T084500Z
+DTEND:20210603T093000Z
+DESCRIPTION:Django is growing some great async features and Channels has be
+ en great for handling websockets connecting from your visitor's browser. B
+ ut what happens when you need to do more? What if you want to keep long-ru
+ nning connections from Django to other websockets\, such as Discord server
+ s?  How do you do this and still leverage all the batteries included with 
+ Django? We will show an approach that makes this all possible and easy as 
+ a developer.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Hacking Django Channels for Fun (and Profit) - Calvin Hendryx-Parke
+ r
+URL:https://cfp.2021.djangocon.eu/2021/talk/VYNPNR/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-F7EZXH@cfp.2021.djangocon.eu
+DTSTART:20210603T093000Z
+DTEND:20210603T101500Z
+DESCRIPTION:Many Django developers are intimidated by "modern" JavaScript\,
+  and those that aren't tend to throw away much of Django and use it only a
+ s an API for a standalone JavaScript front end.\n\nThis talk will outline 
+ the options for using Django with a modern framework like React or Vue\, a
+ nd deep dive on everything you'd need to know to incorporate modern JavaSc
+ ript into a Django project without giving up Django's View/Template system
+ .\n\nIt will also highlight some of what you gain by embracing modern Java
+ Script.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Modern JavaScript for Django Developers - Cory Zue
+URL:https://cfp.2021.djangocon.eu/2021/talk/F7EZXH/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-RW9FVH@cfp.2021.djangocon.eu
+DTSTART:20210603T100000Z
+DTEND:20210603T105000Z
+DESCRIPTION:There are some challenges that come up in every Django project.
+  Some of them right at the start:  How do I organize my apps?  Where do I 
+ put the base template\, and all the other templates? Should I do internati
+ onalization right away?\nOther problems only crop up a little later: how d
+ o I manage production settings? How do I make sure permissions are checked
+  correctly? How do I make menus appear correctly?  \nSome may appear at an
+ y point in time: how do I add content pages? What code goes into models/co
+ ntrollers/views?\n\nIn this workshop\, I'm going to tell you how I approac
+ h these recurring challenges and what my "best practices" in these situati
+ ons are.
+DTSTAMP:20220201T162024Z
+LOCATION:Secondary Room
+SUMMARY:Django Unstuck: Suggestions for common challenges in your projects 
+ - Johannes Spielmann
+URL:https://cfp.2021.djangocon.eu/2021/talk/RW9FVH/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-NCTBUS@cfp.2021.djangocon.eu
+DTSTART:20210603T101500Z
+DTEND:20210603T110000Z
+DESCRIPTION:There are two main problems in implementing the Clean Architect
+ ure (CA) pattern with Django projects: developers are often not clear on w
+ hat a Clean Architecture would look like with Django and secondly the fram
+ ework itself resists adaption to the CA paradigm.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Clean Architecture with Django: Rethinking basic assumptions - Paul
+  Wolf
+URL:https://cfp.2021.djangocon.eu/2021/talk/NCTBUS/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-VCTVRB@cfp.2021.djangocon.eu
+DTSTART:20210603T115000Z
+DTEND:20210603T130500Z
+DESCRIPTION:Imagine you built a pretty snazzy Django app to transform your 
+ company's business. You're helping with revolutionising the energy industr
+ y to make better use of green energy. Pretty cool right? Now imagine your 
+ company is expanding to new countries and not only that\, other companies 
+ want to use your app too. Even better! But also imagine you wrote that app
+  specifcally with your company in one country in mind. This talk is going 
+ to cover the approach we've taken in transforming our app to work for mult
+ iple clients in multiple countries while still keeping the core of it the 
+ same.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:KEYNOTE | Spreading our tentacles - taking a Django app global - Fr
+ ederike Jaeger
+URL:https://cfp.2021.djangocon.eu/2021/talk/VCTVRB/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-PZ3KWB@cfp.2021.djangocon.eu
+DTSTART:20210603T130500Z
+DTEND:20210603T135000Z
+DESCRIPTION:HTMX is a tiny JavaScript library which helps you to avoid Java
+ Script. Instead of sending JSON over the wire (like React\, Vue\, ...) it 
+ sends HTML fragments over the wire.\n\nIt simplifies the toolchain and the
+  result are fast pages with good SEO (web vitals) scores.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:HTMX: Frontend Revolution - Thomas Güttler
+URL:https://cfp.2021.djangocon.eu/2021/talk/PZ3KWB/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-CTXYZE@cfp.2021.djangocon.eu
+DTSTART:20210603T133000Z
+DTEND:20210603T142000Z
+DESCRIPTION:Django projects are standalone by nature\, but with the right t
+ ooling and practices you can effectively maintain many interrelated Django
+  services in a single streamlined repo\, with minimal boilerplate and copy
+ pasta.
+DTSTAMP:20220201T162024Z
+LOCATION:Secondary Room
+SUMMARY:Managing multiple Django services in a single repo - Benjy Weinberg
+ er
+URL:https://cfp.2021.djangocon.eu/2021/talk/CTXYZE/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-RE7AVL@cfp.2021.djangocon.eu
+DTSTART:20210603T135000Z
+DTEND:20210603T143500Z
+DESCRIPTION:Javascript is eating the world\, but it does not need to eat yo
+ ur project too!. In this talk we will explore lightweight frontend solutio
+ ns for progressively enhancing a Django web page.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:You might not need a frontend framework - Afonso Cerejeira
+URL:https://cfp.2021.djangocon.eu/2021/talk/RE7AVL/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-DXMJ8H@cfp.2021.djangocon.eu
+DTSTART:20210603T143500Z
+DTEND:20210603T152000Z
+DESCRIPTION:**Django** per se is a _database-agnostic_ web framework\, but 
+ _real-world projects_ based on it are not. **PostgreSQL** has the _richest
+  feature set_ of any supported databases and we'll see how to use these **
+ superpowers** in _Django_.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Django with PostgreSQL superpowers - Paolo Melchiorre
+URL:https://cfp.2021.djangocon.eu/2021/talk/DXMJ8H/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-UBAQPR@cfp.2021.djangocon.eu
+DTSTART:20210603T150000Z
+DTEND:20210603T153000Z
+DESCRIPTION:Learn to leverage cloud native tools and launch a scalable Pyth
+ on and Django application into the Cloud with Fargate. We’ll dive in wit
+ h how to getting up and running fast\, but leaving the overhead of managin
+ g virtual machines and Kubernetes behind. Create and store the application
+  Docker images in a container repository and without touching the AWS cons
+ ole we can create fully Infrastructure as Code automated deployments via C
+ odePipeline into Fargate containers and S3 buckets. Deliver the React appl
+ ication via CloudFront and S3 for full global scalability. Leave the legac
+ y deployments behind and forge bravely into the new world of Cloud Native 
+ applications.
+DTSTAMP:20220201T162024Z
+LOCATION:Secondary Room
+SUMMARY:Deploying a Django Virtual Event Platform Using Containers and Terr
+ aform - Calvin Hendryx-Parker
+URL:https://cfp.2021.djangocon.eu/2021/talk/UBAQPR/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-FJLKVT@cfp.2021.djangocon.eu
+DTSTART:20210603T152000Z
+DTEND:20210603T160500Z
+DESCRIPTION:Utilize Django to build modern\, interactive websites without n
+ eeding a complicated frontend framework.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:How to create a full-stack\, reactive website in Django with absolu
+ tely no JavaScript - Adam Hill
+URL:https://cfp.2021.djangocon.eu/2021/talk/FJLKVT/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-NS9S7N@cfp.2021.djangocon.eu
+DTSTART:20210604T071500Z
+DTEND:20210604T080000Z
+DESCRIPTION:TestCase.setUpTestData allows you to create test data once per 
+ TestCase\, rather than once per test. This talk will cover how it works\, 
+ how it improved in Django 3.2\, and how to convert your tests to use it.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Speed up your tests with setUpTestData - Adam Johnson
+URL:https://cfp.2021.djangocon.eu/2021/talk/NS9S7N/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-VHFEDF@cfp.2021.djangocon.eu
+DTSTART:20210604T074500Z
+DTEND:20210604T083500Z
+DESCRIPTION:Do _IntegrityError: NOT NULL constraint failed_\, _column canno
+ t be null_ or _OperationalError: no such column_ ring a bell? Most Django 
+ developers experience those either during development\, or worse\, in prod
+ uction. We'll explore the whys and wherefores of these problems and sugges
+ t some solutions in order to improve your experience with Django migration
+ s and make them seamless.\n\nSlides: https://drive.google.com/file/d/13wsg
+ 1yYWX0aJrLuA4a-GRnej42GBN1CK/view?usp=sharing
+DTSTAMP:20220201T162024Z
+LOCATION:Secondary Room
+SUMMARY:Migrations and understanding Django's relationship with its databas
+ e - David Wobrock
+URL:https://cfp.2021.djangocon.eu/2021/talk/VHFEDF/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-QQJ9WB@cfp.2021.djangocon.eu
+DTSTART:20210604T080000Z
+DTEND:20210604T084500Z
+DESCRIPTION:You're probably asking yourself "Why would someone wanna do tha
+ t?". Django is one of the most successful web frameworks out there\, the c
+ odebase is well established and well tested.\n\nThat is true. On the other
+  hand\, a codebase that old is bond to have some technical debt.\nIMHO\, D
+ jango's technical debt is mostly situated in the admin which is one of the
+  most appreciated features of Django while at the same time\, possessing t
+ he least people familiar with its internals or willing to learn them.\nAno
+ ther sort of technical debt is one that is backward compatibility and havi
+ ng to keep choices made more than a decade ago.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Rewriting Django from (almost) scratch in 2021 - Emma Delescolle
+URL:https://cfp.2021.djangocon.eu/2021/talk/QQJ9WB/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-LKQSE7@cfp.2021.djangocon.eu
+DTSTART:20210604T084500Z
+DTEND:20210604T093000Z
+DESCRIPTION:How to make your Django app speak SSH or RDP with Guacamole\, A
+ SGI and Daphne — giving anyone a console or a desktop right in their bro
+ wser!
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Get interactive! Putting a shell (or a desktop) in your Django app 
+ - Maari Tamm\, Florian Haas
+URL:https://cfp.2021.djangocon.eu/2021/talk/LKQSE7/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-GWVRVA@cfp.2021.djangocon.eu
+DTSTART:20210604T093000Z
+DTEND:20210604T101500Z
+DESCRIPTION:How to build GraphQL APIs with Django that can serve millions o
+ f requests per second? Strategies to deploy your API and SPA for productio
+ n and non-production workloads.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Build\, deploy and scale: Django\, GraphQL and SPA - dhilipsiva
+URL:https://cfp.2021.djangocon.eu/2021/talk/GWVRVA/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-SXFXBF@cfp.2021.djangocon.eu
+DTSTART:20210604T100000Z
+DTEND:20210604T105000Z
+DESCRIPTION:Cleanroom software engineering process is a software developmen
+ t process developed at IBM intended to produce software with a certifiable
+  level of reliability.  A principal objective of the Cleanroom process is 
+ development of software that exhibits zero failures in use. In this worksh
+ op we will review how to implement it in a project with the help of Django
+ .
+DTSTAMP:20220201T162024Z
+LOCATION:Secondary Room
+SUMMARY:Cleanroom Software Engineering with Django - Francisco J. López-Li
+ ra Hinojo
+URL:https://cfp.2021.djangocon.eu/2021/talk/SXFXBF/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-TXENJP@cfp.2021.djangocon.eu
+DTSTART:20210604T101500Z
+DTEND:20210604T110000Z
+DESCRIPTION:Load testing is critical in the software development lifecycle 
+ as it evaluates application performance affected by normal and peak loads 
+ by simulating access and usage by multiple users concurrently. \n\nLocustI
+ O\, an open source tool written in python\, is used for load testing of we
+ b applications. It is simple and easy to use with web UI to view the test 
+ results. Let's make load testing quick and easy with LocustIO.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Load Testing a Django Application using LocustIO - Vibhash Chandra\
+ , Pranjal Jain
+URL:https://cfp.2021.djangocon.eu/2021/talk/TXENJP/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-SDMA7T@cfp.2021.djangocon.eu
+DTSTART:20210604T115000Z
+DTEND:20210604T130500Z
+DESCRIPTION:The Jazzband project was launched 5 years ago to help maintaine
+ rs find a way to secure the long-term maintenance of their Python projects
+ . The result was a collective of volunteers that stepped up in a big way o
+ n the way to solve Open Source sustainability.\n\nIn this talk I'll dive i
+ nto the history of the project\, the good and bad of running the project f
+ or >5 years and the next steps for Jazzband.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:KEYNOTE | We're all part of this: Jazzband 5 years later - Jannis L
+ eidel (he/him)
+URL:https://cfp.2021.djangocon.eu/2021/talk/SDMA7T/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-39Z3PC@cfp.2021.djangocon.eu
+DTSTART:20210604T123000Z
+DTEND:20210604T130500Z
+DESCRIPTION:Blackfire offers a unique blend of Monitoring and Profiling fea
+ tures. Unlike traditional APMs on the market\, it focuses on the quality o
+ f the data it collects\, rather than its quantity\, in order to make sure 
+ developers know quickly what they can do to fix issues.
+DTSTAMP:20220201T162024Z
+LOCATION:Secondary Room
+SUMMARY:From Development to Production\, Getting Actionable Insights to Opt
+ imize Django Code Performance - Jérôme Vieilledent
+URL:https://cfp.2021.djangocon.eu/2021/talk/39Z3PC/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-7B9YYD@cfp.2021.djangocon.eu
+DTSTART:20210604T130500Z
+DTEND:20210604T135000Z
+DESCRIPTION:A Django-layer-focused look at the classic interview question: 
+ "what happens when you click a link?". From the initial call to the reques
+ t handler\, through to what it finally returns\; a deep dive into Django's
+  handlers and middleware.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:The request/response cycle - a Djangonautic journey - Timothy McCur
+ rach
+URL:https://cfp.2021.djangocon.eu/2021/talk/7B9YYD/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-APN93S@cfp.2021.djangocon.eu
+DTSTART:20210604T135000Z
+DTEND:20210604T143500Z
+DESCRIPTION:The Django Software Foundation (DSF) is the independent foundat
+ ion established as a 501(c)(3) non-profit that supports the development of
+  Django. The goal of the DSF is to promote\, support\, and advance its ope
+ n-source project\, the Django Web framework. In my talk\, I will give an o
+ verview of what the DSF is doing to support the advancement of Django thro
+ ugh the various teams\, committees\, and boards that make up the foundatio
+ n. I will also talk about how to contribute to the advancement of Django t
+ hrough both code and non-code contributions.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:All about The Django Software Foundation (DSF) - Anna Makarudze
+URL:https://cfp.2021.djangocon.eu/2021/talk/APN93S/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-E8AYPU@cfp.2021.djangocon.eu
+DTSTART:20210604T143500Z
+DTEND:20210604T152000Z
+DESCRIPTION:Is it possible to use just Django to serve static/cfp-media files? 
+ Even thousands of clients in parallel while saturating at least a 1Gbit li
+ nk? I believe it is :) (now).
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Serving Files with Django - Jochen Wersdörfer
+URL:https://cfp.2021.djangocon.eu/2021/talk/E8AYPU/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-UUZQFJ@cfp.2021.djangocon.eu
+DTSTART:20210604T144500Z
+DTEND:20210604T151500Z
+DESCRIPTION:We hosted the last two DjangoCon Europe 2020 and 2021. What abo
+ ut 2022? Who is next?\n\nWe will share our experience over the last two ye
+ ars\, the good the bad and the ugly.\n\nDjangoCon Europe will go on and fo
+ llowing the tradition we will pass over the olympic torch to whoever wants
+  to continue.\n\nThe first step is to apply with DSF\, but during the subm
+ ission you will already need to have a general Idea of the overall organiz
+ ation.
+DTSTAMP:20220201T162024Z
+LOCATION:Secondary Room
+SUMMARY:What about DjangoCon Europe 2022? - Miguel Magalhães\, David Vaz
+URL:https://cfp.2021.djangocon.eu/2021/talk/UUZQFJ/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-2021-NUKNRB@cfp.2021.djangocon.eu
+DTSTART:20210604T152000Z
+DTEND:20210604T160500Z
+DESCRIPTION:In this talk\, we will focus on two aspects. First\, performing
+  penetration testing on Django web applications to identify vulnerabilitie
+ s and scanning for Open Web Application Security Project (OWASP) Top 10 ri
+ sks. Second\, strategies and configuration settings for making the source 
+ code and Django applications secure.
+DTSTAMP:20220201T162024Z
+LOCATION:Main Room
+SUMMARY:Securing Django Applications - Gajendra Deshpande
+URL:https://cfp.2021.djangocon.eu/2021/talk/NUKNRB/
+END:VEVENT
+END:VCALENDAR

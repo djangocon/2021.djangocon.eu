@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//LMWU8L
+BEGIN:VEVENT
+UID:pretalx-2021-LMWU8L@cfp.2021.djangocon.eu
+DTSTART:20210602T074500Z
+DTEND:20210602T083500Z
+DESCRIPTION:What is GraphQL? When would I use it instead of DRF? How does i
+ t work with my models? In this session\, we'll answer all these questions 
+ and more as we walk through a working example of a React\, GraphQL\, and D
+ jango application.
+DTSTAMP:20220201T162636Z
+LOCATION:Secondary Room
+SUMMARY:Getting started with React\, GraphQL\, and Django - Aaron Bassett
+URL:https://cfp.2021.djangocon.eu/2021/talk/LMWU8L/
+END:VEVENT
+END:VCALENDAR

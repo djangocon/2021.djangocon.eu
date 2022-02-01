@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//RE7AVL
+BEGIN:VEVENT
+UID:pretalx-2021-RE7AVL@cfp.2021.djangocon.eu
+DTSTART:20210603T135000Z
+DTEND:20210603T143500Z
+DESCRIPTION:Javascript is eating the world\, but it does not need to eat yo
+ ur project too!. In this talk we will explore lightweight frontend solutio
+ ns for progressively enhancing a Django web page.
+DTSTAMP:20220201T162825Z
+LOCATION:Main Room
+SUMMARY:You might not need a frontend framework - Afonso Cerejeira
+URL:https://cfp.2021.djangocon.eu/2021/talk/RE7AVL/
+END:VEVENT
+END:VCALENDAR

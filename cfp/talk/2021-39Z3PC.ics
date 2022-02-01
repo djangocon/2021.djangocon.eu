@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//39Z3PC
+BEGIN:VEVENT
+UID:pretalx-2021-39Z3PC@cfp.2021.djangocon.eu
+DTSTART:20210604T123000Z
+DTEND:20210604T130500Z
+DESCRIPTION:Blackfire offers a unique blend of Monitoring and Profiling fea
+ tures. Unlike traditional APMs on the market\, it focuses on the quality o
+ f the data it collects\, rather than its quantity\, in order to make sure 
+ developers know quickly what they can do to fix issues.
+DTSTAMP:20220201T162930Z
+LOCATION:Secondary Room
+SUMMARY:From Development to Production\, Getting Actionable Insights to Opt
+ imize Django Code Performance - Jérôme Vieilledent
+URL:https://cfp.2021.djangocon.eu/2021/talk/39Z3PC/
+END:VEVENT
+END:VCALENDAR

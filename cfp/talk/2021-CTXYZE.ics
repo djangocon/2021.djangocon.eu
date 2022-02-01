@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//CTXYZE
+BEGIN:VEVENT
+UID:pretalx-2021-CTXYZE@cfp.2021.djangocon.eu
+DTSTART:20210603T133000Z
+DTEND:20210603T142000Z
+DESCRIPTION:Django projects are standalone by nature\, but with the right t
+ ooling and practices you can effectively maintain many interrelated Django
+  services in a single streamlined repo\, with minimal boilerplate and copy
+ pasta.
+DTSTAMP:20220201T162840Z
+LOCATION:Secondary Room
+SUMMARY:Managing multiple Django services in a single repo - Benjy Weinberg
+ er
+URL:https://cfp.2021.djangocon.eu/2021/talk/CTXYZE/
+END:VEVENT
+END:VCALENDAR

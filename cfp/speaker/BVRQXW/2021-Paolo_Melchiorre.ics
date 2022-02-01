@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//BVRQXW
+BEGIN:VEVENT
+UID:pretalx-2021-DXMJ8H@cfp.2021.djangocon.eu
+DTSTART:20210603T143500Z
+DTEND:20210603T152000Z
+DESCRIPTION:**Django** per se is a _database-agnostic_ web framework\, but 
+ _real-world projects_ based on it are not. **PostgreSQL** has the _richest
+  feature set_ of any supported databases and we'll see how to use these **
+ superpowers** in _Django_.
+DTSTAMP:20220201T163331Z
+LOCATION:Main Room
+SUMMARY:Django with PostgreSQL superpowers - Paolo Melchiorre
+URL:https://cfp.2021.djangocon.eu/2021/talk/DXMJ8H/
+END:VEVENT
+END:VCALENDAR

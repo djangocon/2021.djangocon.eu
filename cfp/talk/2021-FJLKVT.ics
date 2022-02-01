@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//FJLKVT
+BEGIN:VEVENT
+UID:pretalx-2021-FJLKVT@cfp.2021.djangocon.eu
+DTSTART:20210603T152000Z
+DTEND:20210603T160500Z
+DESCRIPTION:Utilize Django to build modern\, interactive websites without n
+ eeding a complicated frontend framework.
+DTSTAMP:20220201T162829Z
+LOCATION:Main Room
+SUMMARY:How to create a full-stack\, reactive website in Django with absolu
+ tely no JavaScript - Adam Hill
+URL:https://cfp.2021.djangocon.eu/2021/talk/FJLKVT/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//LNNQMJ
+BEGIN:VEVENT
+UID:pretalx-2021-SXFXBF@cfp.2021.djangocon.eu
+DTSTART:20210604T100000Z
+DTEND:20210604T105000Z
+DESCRIPTION:Cleanroom software engineering process is a software developmen
+ t process developed at IBM intended to produce software with a certifiable
+  level of reliability.  A principal objective of the Cleanroom process is 
+ development of software that exhibits zero failures in use. In this worksh
+ op we will review how to implement it in a project with the help of Django
+ .
+DTSTAMP:20220201T163307Z
+LOCATION:Secondary Room
+SUMMARY:Cleanroom Software Engineering with Django - Francisco J. López-Li
+ ra Hinojo
+URL:https://cfp.2021.djangocon.eu/2021/talk/SXFXBF/
+END:VEVENT
+END:VCALENDAR

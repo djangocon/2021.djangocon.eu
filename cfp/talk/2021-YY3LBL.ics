@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//YY3LBL
+BEGIN:VEVENT
+UID:pretalx-2021-YY3LBL@cfp.2021.djangocon.eu
+DTSTART:20210603T071500Z
+DTEND:20210603T080000Z
+DESCRIPTION:You're building a content site? Can't face a CMS? Well have the
+  best of all worlds!\n\nWrite your site content in Markdown. Manage it on 
+ the file system with git. \nUse all the power of Sphinx to build your site
+ \, but server it with Django. \n\nCross-referencing\, content super-powers
+  meet auth\, forms\, interactivity\, \ndynamic content and all the rest of
+  it. . \n\nYou don't have to choose\, and you don't have to roll your own 
+ either.
+DTSTAMP:20220201T162745Z
+LOCATION:Main Room
+SUMMARY:Dynamic static sites with Django and Sphinx - Carlton Gibson
+URL:https://cfp.2021.djangocon.eu/2021/talk/YY3LBL/
+END:VEVENT
+END:VCALENDAR

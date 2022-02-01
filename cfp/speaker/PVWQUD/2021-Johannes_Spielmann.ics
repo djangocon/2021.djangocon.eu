@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//PVWQUD
+BEGIN:VEVENT
+UID:pretalx-2021-RW9FVH@cfp.2021.djangocon.eu
+DTSTART:20210603T100000Z
+DTEND:20210603T105000Z
+DESCRIPTION:There are some challenges that come up in every Django project.
+  Some of them right at the start:  How do I organize my apps?  Where do I 
+ put the base template\, and all the other templates? Should I do internati
+ onalization right away?\nOther problems only crop up a little later: how d
+ o I manage production settings? How do I make sure permissions are checked
+  correctly? How do I make menus appear correctly?  \nSome may appear at an
+ y point in time: how do I add content pages? What code goes into models/co
+ ntrollers/views?\n\nIn this workshop\, I'm going to tell you how I approac
+ h these recurring challenges and what my "best practices" in these situati
+ ons are.
+DTSTAMP:20220201T163322Z
+LOCATION:Secondary Room
+SUMMARY:Django Unstuck: Suggestions for common challenges in your projects 
+ - Johannes Spielmann
+URL:https://cfp.2021.djangocon.eu/2021/talk/RW9FVH/
+END:VEVENT
+END:VCALENDAR

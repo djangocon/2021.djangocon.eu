@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//BPFHQA
+BEGIN:VEVENT
+UID:pretalx-2021-GWVRVA@cfp.2021.djangocon.eu
+DTSTART:20210604T093000Z
+DTEND:20210604T101500Z
+DESCRIPTION:How to build GraphQL APIs with Django that can serve millions o
+ f requests per second? Strategies to deploy your API and SPA for productio
+ n and non-production workloads.
+DTSTAMP:20220201T163304Z
+LOCATION:Main Room
+SUMMARY:Build\, deploy and scale: Django\, GraphQL and SPA - dhilipsiva
+URL:https://cfp.2021.djangocon.eu/2021/talk/GWVRVA/
+END:VEVENT
+END:VCALENDAR

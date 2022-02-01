@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//ZRDR3P
+BEGIN:VEVENT
+UID:pretalx-2021-NBUHRU@cfp.2021.djangocon.eu
+DTSTART:20210602T130500Z
+DTEND:20210602T135000Z
+DESCRIPTION:In this talk\, we want to share our experience going beyond JSO
+ N APIs and using more Serializers and Renderers' features to create full-s
+ tack applications using Django Rest Framework
+DTSTAMP:20220201T163315Z
+LOCATION:Main Room
+SUMMARY:Full-stack Django Rest Framework - Israel da Silva Teixeira\, Thiag
+ o Garcia da Silva
+URL:https://cfp.2021.djangocon.eu/2021/talk/NBUHRU/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,336 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from cfp.2021.djangocon.eu/2021/talk/RW9FVH/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Feb 2022 16:28:35 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>Django Unstuck: Suggestions for common challenges in your projects ::  DjangoCon Europe 2021 :: pretalx</title>
+    <meta name="title" content="Django Unstuck: Suggestions for common challenges in your projects  - DjangoCon Europe 2021 pretalx">
+    <meta name="description" content="In this workshop, we are going to look at four challenges that appear in every Django project at some point. We are going to analyse what&#39;s happening, what you can do to get un-stuck, and see what other people do.
+
+This workshop is for beginners and advanced Django users. The issues we discuss appear in many Django projects, so there is something here for every level of Django knowledge.
+
+These are the four challenges we are going to look at:
+
+* App management and placement (and urlpatterns)
+* Templates: Placement, folders, blocks and inheritance and namespaces
+* When to use Middlewares and context processors and what are they?
+* Should code/logic go into models, views or managers or somewhere else?
+
+For each of these, we will try out what **I** do when they happen, and we&#39;ll discuss other strategies.
+
+We will not do a lot of coding in this workshop, but if you want to follow along, make sure you have Django installed and can execute &quot;django-admin.py&quot;. There is also a set of base templates I am going to use for illustration, which is linked in the files below.
+
+Of course, there are many more problems like these, which is why I made a list of &quot;suggestions&quot; or &quot;best practices&quot; for these and others.
+Here&#39;s what we&#39;re working on so far:
+
+ * App management and placement (and urlpatterns)
+ * Splitting settings: local, dev, testing and production
+ * Username vs email address
+ * Registration in general
+ * Background tasks and long-running processes and Caching
+ * Templates: Placement, folders, blocks and inheritance and namespaces
+ * Should you do i18n and l10n right away?
+ * When and how to start caching (memcached, redis etc.)
+ * Should code/logic go into models, views or managers or somewhere else?
+ * When to use Middlewares and context processors and what are they?
+ * How to secure access: security middlewares or login_required (white vs black list)
+ * How to create files and store them in file models
+ * What to do about image scaling and thumbnailing (and hosting)?
+ * How to serve content: coded pages, flatpages or Wagtail?
+
+You can find that list on Github at: https://github.com/shezi/django-unstuck (it&#39;s a work-in-progress).
+There is also a Discord community and Telegram chat group surrounding that list, so if you have any kind of problem with a Django project, come join us and we&#39;ll find a way to get you unstuck.
+
+We&#39;re building a community around Django best practices and on getting you Unstuck in challenging situations. Join us on Discord at https://discord.gg/bUsu9B6Ek6 or on Telegram at https://t.me/djangoRhein
+
+About me: I&#39;m Johannes Spielmann, software developer-for-hire from Germany, and I&#39;ve been doing Django projects for almost 15 years, ever since I saw Adrian Holovaty&#39;s presentation at &quot;Snakes and Rubies&quot;. I&#39;ve done projects both small and large, both in commercial and non-commercial settings, and I&#39;ve seen all of the above things many times.
+
+**You can find all materials for this talk also at: https://shezi.de/djangocon.eu.2021/**
+
+Video: https://www.youtube.com/watch?v=uetyOZeVrOE&amp;ab_channel=DjangoConEurope">
+    <meta name="application-name" content="pretalx">
+    <meta name="generator" content="pretalx">
+    <meta name="keywords" content="DjangoCon Europe 2021, 2021, 2021, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#120E3D">
+    <meta name="HandheldFriendly" content="True"/>
+    <meta property="thumbnail" content="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png">
+    <meta property="og:image" content="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png">
+    <meta property="og:title" content="Django Unstuck: Suggestions for common challenges in your projects DjangoCon Europe 2021">
+    <meta property="og:description" content="In this workshop, we are going to look at four challenges that appear in every Django project at some point. We are going to analyse what&#39;s happening, what you can do to get un-stuck, and see what other people do.
+
+This workshop is for beginners and advanced Django users. The issues we discuss appear in many Django projects, so there is something here for every level of Django knowledge.
+
+These are the four challenges we are going to look at:
+
+* App management and placement (and urlpatterns)
+* Templates: Placement, folders, blocks and inheritance and namespaces
+* When to use Middlewares and context processors and what are they?
+* Should code/logic go into models, views or managers or somewhere else?
+
+For each of these, we will try out what **I** do when they happen, and we&#39;ll discuss other strategies.
+
+We will not do a lot of coding in this workshop, but if you want to follow along, make sure you have Django installed and can execute &quot;django-admin.py&quot;. There is also a set of base templates I am going to use for illustration, which is linked in the files below.
+
+Of course, there are many more problems like these, which is why I made a list of &quot;suggestions&quot; or &quot;best practices&quot; for these and others.
+Here&#39;s what we&#39;re working on so far:
+
+ * App management and placement (and urlpatterns)
+ * Splitting settings: local, dev, testing and production
+ * Username vs email address
+ * Registration in general
+ * Background tasks and long-running processes and Caching
+ * Templates: Placement, folders, blocks and inheritance and namespaces
+ * Should you do i18n and l10n right away?
+ * When and how to start caching (memcached, redis etc.)
+ * Should code/logic go into models, views or managers or somewhere else?
+ * When to use Middlewares and context processors and what are they?
+ * How to secure access: security middlewares or login_required (white vs black list)
+ * How to create files and store them in file models
+ * What to do about image scaling and thumbnailing (and hosting)?
+ * How to serve content: coded pages, flatpages or Wagtail?
+
+You can find that list on Github at: https://github.com/shezi/django-unstuck (it&#39;s a work-in-progress).
+There is also a Discord community and Telegram chat group surrounding that list, so if you have any kind of problem with a Django project, come join us and we&#39;ll find a way to get you unstuck.
+
+We&#39;re building a community around Django best practices and on getting you Unstuck in challenging situations. Join us on Discord at https://discord.gg/bUsu9B6Ek6 or on Telegram at https://t.me/djangoRhein
+
+About me: I&#39;m Johannes Spielmann, software developer-for-hire from Germany, and I&#39;ve been doing Django projects for almost 15 years, ever since I saw Adrian Holovaty&#39;s presentation at &quot;Snakes and Rubies&quot;. I&#39;ve done projects both small and large, both in commercial and non-commercial settings, and I&#39;ve seen all of the above things many times.
+
+**You can find all materials for this talk also at: https://shezi.de/djangocon.eu.2021/**
+
+Video: https://www.youtube.com/watch?v=uetyOZeVrOE&amp;ab_channel=DjangoConEurope">
+    <meta property="og:url" content="index.html">
+    <meta property="twitter:card" content="summary">
+
+    
+    <link rel="icon" type="image/png" sizes="32x32" href="../../../cfp-static/common/img/favicon-32x32.816e12963927.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../../cfp-static/common/img/favicon-16x16.b1e178982893.png">
+    
+
+    <link rel="stylesheet" type="text/css" href="../../../cfp-static/common/scss/uncompressed.ec8d16cc3696.css" />
+    
+        <link rel="stylesheet" type="text/css" href="../../../cfp-static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+        <link rel="stylesheet" type="text/css" href="../../../cfp-media/djangocon-2020/cfp.ff24a3f080cf5b33.css"/>
+        <link rel="stylesheet" type="text/css" href="../../../cfp-media/djangocon-2020/agenda.db276abdb6c8be4d.css"/>
+    
+    <link rel="stylesheet" type="text/css" href="../../../cfp-media/2021/css/2021_cD6cAma.css"/>
+    <script type="text/javascript" src="../../../cfp-static/CACHE/js/output.5b270a5bf623.js" defer></script>
+    
+    
+    <link rel="alternate" type="application/json" title="DjangoCon Europe 2021 API" href="https://cfp.2021.djangocon.eu/api/events/2021/talks/RW9FVH" />
+
+    
+    
+
+</head>
+<body>
+    <div id="top-bg" class="header bg-primary">
+    
+        <img src="../../../cfp-media/2021/img/background.842747ab4615_9pdR39O.jpg" id="header-image">
+    
+    </div>
+    
+    <div class="container" id="main-container">
+        <header>
+            <h1>
+                <a href="../../schedule/index.html">
+                    
+                    <img src="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png" id="event-logo" alt="The event's logo">
+                    
+                </a>
+            </h1>
+            <div class="d-flex" id="header-row">
+            
+            
+                <a href="../../login/index.html">login</a>
+            
+            </div>
+        </header>
+        <div class="card" id="main-card">
+            <main>
+                
+
+                
+    
+    
+<article>
+    <h3 class="talk-title">
+        <div class="heading-with-buttons">
+        Django Unstuck: Suggestions for common challenges in your projects
+        <div class="buttons" id="talk-buttons">
+            
+            <a class="btn btn-outline-primary" href="../2021-RW9FVH.ics">
+                <i class="fa fa-calendar"></i> .ical
+            </a>
+            
+            
+                <a href="feedback/index.html"
+                        class="btn btn-success">
+                    <i class="fa fa-comments"></i> Feedback
+                </a>
+            
+            
+        </div>
+        </div>
+        <small>
+            
+                2021-06-03, 12:00–12:50, Secondary Room
+            
+            
+        </small>
+    </h3>
+    <div class="talk row">
+        <div class="talk-content col-lg-8 col-md-6 col-xs-12">
+            
+            
+            <section class="abstract">
+                <p>There are some challenges that come up in every Django project. Some of them right at the start:  How do I organize my apps?  Where do I put the base template, and all the other templates? Should I do internationalization right away?<br>
+Other problems only crop up a little later: how do I manage production settings? How do I make sure permissions are checked correctly? How do I make menus appear correctly?<br>
+Some may appear at any point in time: how do I add content pages? What code goes into models/controllers/views?</p>
+<p>In this workshop, I'm going to tell you how I approach these recurring challenges and what my "best practices" in these situations are.</p>
+            </section>
+            
+            <hr />
+            
+            <section class="description">
+                <p>In this workshop, we are going to look at four challenges that appear in every Django project at some point. We are going to analyse what's happening, what you can do to get un-stuck, and see what other people do.</p>
+<p>This workshop is for beginners and advanced Django users. The issues we discuss appear in many Django projects, so there is something here for every level of Django knowledge.</p>
+<p>These are the four challenges we are going to look at:</p>
+<ul>
+<li>App management and placement (and urlpatterns)</li>
+<li>Templates: Placement, folders, blocks and inheritance and namespaces</li>
+<li>When to use Middlewares and context processors and what are they?</li>
+<li>Should code/logic go into models, views or managers or somewhere else?</li>
+</ul>
+<p>For each of these, we will try out what <strong>I</strong> do when they happen, and we'll discuss other strategies.</p>
+<p>We will not do a lot of coding in this workshop, but if you want to follow along, make sure you have Django installed and can execute "<a href="http://django-admin.py/" rel="nofollow">django-admin.py</a>". There is also a set of base templates I am going to use for illustration, which is linked in the files below.</p>
+<p>Of course, there are many more problems like these, which is why I made a list of "suggestions" or "best practices" for these and others.<br>
+Here's what we're working on so far:</p>
+<ul>
+<li>App management and placement (and urlpatterns)</li>
+<li>Splitting settings: local, dev, testing and production</li>
+<li>Username vs email address</li>
+<li>Registration in general</li>
+<li>Background tasks and long-running processes and Caching</li>
+<li>Templates: Placement, folders, blocks and inheritance and namespaces</li>
+<li>Should you do i18n and l10n right away?</li>
+<li>When and how to start caching (memcached, redis etc.)</li>
+<li>Should code/logic go into models, views or managers or somewhere else?</li>
+<li>When to use Middlewares and context processors and what are they?</li>
+<li>How to secure access: security middlewares or login_required (white vs black list)</li>
+<li>How to create files and store them in file models</li>
+<li>What to do about image scaling and thumbnailing (and hosting)?</li>
+<li>How to serve content: coded pages, flatpages or Wagtail?</li>
+</ul>
+<p>You can find that list on Github at: <a href="https://github.com/shezi/django-unstuck" rel="nofollow">https://github.com/shezi/django-unstuck</a> (it's a work-in-progress).<br>
+There is also a Discord community and Telegram chat group surrounding that list, so if you have any kind of problem with a Django project, come join us and we'll find a way to get you unstuck.</p>
+<p>We're building a community around Django best practices and on getting you Unstuck in challenging situations. Join us on Discord at <a href="https://discord.gg/bUsu9B6Ek6" rel="nofollow">https://discord.gg/bUsu9B6Ek6</a> or on Telegram at <a href="https://t.me/djangoRhein" rel="nofollow">https://t.me/djangoRhein</a></p>
+<p>About me: I'm Johannes Spielmann, software developer-for-hire from Germany, and I've been doing Django projects for almost 15 years, ever since I saw Adrian Holovaty's presentation at "Snakes and Rubies". I've done projects both small and large, both in commercial and non-commercial settings, and I've seen all of the above things many times.</p>
+<p><strong>You can find all materials for this talk also at: <a href="https://shezi.de/djangocon.eu.2021/" rel="nofollow">https://shezi.de/djangocon.eu.2021/</a></strong></p>
+<p>Video: <a href="https://www.youtube.com/watch?v=uetyOZeVrOE&amp;ab_channel=DjangoConEurope" rel="nofollow">https://www.youtube.com/watch?v=uetyOZeVrOE&amp;ab_channel=DjangoConEurope</a></p>
+            </section>
+            
+            </section>
+            
+                <section class="resources">
+                    See also:
+                    
+                        <ul>
+                            
+                                <li>
+                                    <a href="../../../cfp-media/templates.zip">
+                                        <i class="fa fa-file-o"></i>
+                                        The base templates I use in the workshop
+                                        (4.6 KB)
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="../../../cfp-media/Django_Unstuck_Djangocon_2021_PmqivO4.pptx">
+                                        <i class="fa fa-file-o"></i>
+                                        Slides in PPTX format
+                                        (2.0 MB)
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="../../../cfp-media/Django_Unstuck_Djangocon_2021_3skc061.pdf">
+                                        <i class="fa fa-file-o"></i>
+                                        Slides in PDF format
+                                        (1.2 MB)
+                                    </a>
+                                </li>
+                            
+                                <li>
+                                    <a href="../../../cfp-media/Django_Unstuck_Djangocon_2021_EQt0cZc.odp">
+                                        <i class="fa fa-file-o"></i>
+                                        Slides in ODP format
+                                        (1.7 MB)
+                                    </a>
+                                </li>
+                            
+                        </ul>
+                    
+                </section>
+            
+        </div>
+        <aside class="col-lg-4 col-md-6 col-xs-12">
+            
+            
+            <div class="speakers">
+                <div class="speaker-header">
+                    
+                        Speaker
+                    
+                </div>
+                
+                    <div class="speaker">
+                        <a href="../../speaker/PVWQUD/index.html">
+                            <div class="name">
+                                Johannes Spielmann
+                            </div>
+                        </a>
+                        <div class="info">
+                            
+                        </div>
+                    </div>
+                
+            </div>
+            
+            
+        </aside>
+    </div>
+</article>
+
+
+            </main>
+        </div>
+        <footer>
+            
+            <a href="http://pretalx.com/" target="_blank" rel="noopener">
+                <img src="../../../cfp-static/common/img/logo.c86a874657c9.svg" alt="The pretalx logo">
+            </a>
+            
+                &middot;
+                <a href="mailto:content@djangocon.eu">Contact us</a>
+            
+            
+                &middot;
+                <a href="https://2021.djangocon.eu/conduct/privacy_guide/" target="_blank" rel="noopener">Imprint</a>
+            
+            
+        </footer>
+    </div>
+</body>
+
+<!-- Mirrored from cfp.2021.djangocon.eu/2021/talk/RW9FVH/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Feb 2022 16:28:40 GMT -->
+</html>

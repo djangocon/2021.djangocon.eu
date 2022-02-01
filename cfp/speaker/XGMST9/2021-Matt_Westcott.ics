@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//2021//XGMST9
+BEGIN:VEVENT
+UID:pretalx-2021-DMYMEE@cfp.2021.djangocon.eu
+DTSTART:20210602T093000Z
+DTEND:20210602T101500Z
+DESCRIPTION:Introducing a new approach to sharing data models between Pytho
+ n and JavaScript\, to help in building Django apps with rich client-side f
+ unctionality.
+DTSTAMP:20220201T163327Z
+LOCATION:Main Room
+SUMMARY:Telepath - adding the missing link between Django and rich client a
+ pps - Matt Westcott
+URL:https://cfp.2021.djangocon.eu/2021/talk/DMYMEE/
+END:VEVENT
+END:VCALENDAR

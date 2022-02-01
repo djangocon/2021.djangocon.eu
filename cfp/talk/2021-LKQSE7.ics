@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//LKQSE7
+BEGIN:VEVENT
+UID:pretalx-2021-LKQSE7@cfp.2021.djangocon.eu
+DTSTART:20210604T084500Z
+DTEND:20210604T093000Z
+DESCRIPTION:How to make your Django app speak SSH or RDP with Guacamole\, A
+ SGI and Daphne — giving anyone a console or a desktop right in their bro
+ wser!
+DTSTAMP:20220201T162852Z
+LOCATION:Main Room
+SUMMARY:Get interactive! Putting a shell (or a desktop) in your Django app 
+ - Maari Tamm\, Florian Haas
+URL:https://cfp.2021.djangocon.eu/2021/talk/LKQSE7/
+END:VEVENT
+END:VCALENDAR

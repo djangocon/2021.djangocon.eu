@@ -1,0 +1,184 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from cfp.2021.djangocon.eu/2021/talk/F9J8CU/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Feb 2022 16:25:27 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>Writing Safe Database Migrations ::  DjangoCon Europe 2021 :: pretalx</title>
+    <meta name="title" content="Writing Safe Database Migrations  - DjangoCon Europe 2021 pretalx">
+    <meta name="description" content="Django’s built-in migration framework is great. And it works tremendously. But that’s only on the surface. Whenever you deploy your code and apply migrations in production, you are about to enter dangerous territory. I will point out common pitfalls and show you ways to avoid them. And with some additional best practices at hand, you will be ready for your next production deployment.
+
+The talk slides are available on [**Speaker Deck**](https://speakerdeck.com/markush/writing-safe-database-migrations-djangocon-europe-2021).
+
+Video: https://www.youtube.com/watch?v=q1BlFKXy-BU&amp;ab_channel=DjangoConEurope">
+    <meta name="application-name" content="pretalx">
+    <meta name="generator" content="pretalx">
+    <meta name="keywords" content="DjangoCon Europe 2021, 2021, 2021, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#120E3D">
+    <meta name="HandheldFriendly" content="True"/>
+    <meta property="thumbnail" content="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png">
+    <meta property="og:image" content="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png">
+    <meta property="og:title" content="Writing Safe Database Migrations DjangoCon Europe 2021">
+    <meta property="og:description" content="Django’s built-in migration framework is great. And it works tremendously. But that’s only on the surface. Whenever you deploy your code and apply migrations in production, you are about to enter dangerous territory. I will point out common pitfalls and show you ways to avoid them. And with some additional best practices at hand, you will be ready for your next production deployment.
+
+The talk slides are available on [**Speaker Deck**](https://speakerdeck.com/markush/writing-safe-database-migrations-djangocon-europe-2021).
+
+Video: https://www.youtube.com/watch?v=q1BlFKXy-BU&amp;ab_channel=DjangoConEurope">
+    <meta property="og:url" content="index.html">
+    <meta property="twitter:card" content="summary">
+
+    
+    <link rel="icon" type="image/png" sizes="32x32" href="../../../cfp-static/common/img/favicon-32x32.816e12963927.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../../cfp-static/common/img/favicon-16x16.b1e178982893.png">
+    
+
+    <link rel="stylesheet" type="text/css" href="../../../cfp-static/common/scss/uncompressed.ec8d16cc3696.css" />
+    
+        <link rel="stylesheet" type="text/css" href="../../../cfp-static/vendored/fullcalendar/fullcalendar.min.ba055a2cd2b3.css"/>
+        <link rel="stylesheet" type="text/css" href="../../../cfp-media/djangocon-2020/cfp.ff24a3f080cf5b33.css"/>
+        <link rel="stylesheet" type="text/css" href="../../../cfp-media/djangocon-2020/agenda.db276abdb6c8be4d.css"/>
+    
+    <link rel="stylesheet" type="text/css" href="../../../cfp-media/2021/css/2021_cD6cAma.css"/>
+    <script type="text/javascript" src="../../../cfp-static/CACHE/js/output.5b270a5bf623.js" defer></script>
+    
+    
+    <link rel="alternate" type="application/json" title="DjangoCon Europe 2021 API" href="https://cfp.2021.djangocon.eu/api/events/2021/talks/F9J8CU" />
+
+    
+    
+
+</head>
+<body>
+    <div id="top-bg" class="header bg-primary">
+    
+        <img src="../../../cfp-media/2021/img/background.842747ab4615_9pdR39O.jpg" id="header-image">
+    
+    </div>
+    
+    <div class="container" id="main-container">
+        <header>
+            <h1>
+                <a href="../../schedule/index.html">
+                    
+                    <img src="../../../cfp-media/2021/img/logo.3d6c7f0927f0_NmLK4ty.png" id="event-logo" alt="The event's logo">
+                    
+                </a>
+            </h1>
+            <div class="d-flex" id="header-row">
+            
+            
+                <a href="../../login/index.html">login</a>
+            
+            </div>
+        </header>
+        <div class="card" id="main-card">
+            <main>
+                
+
+                
+    
+    
+<article>
+    <h3 class="talk-title">
+        <div class="heading-with-buttons">
+        Writing Safe Database Migrations
+        <div class="buttons" id="talk-buttons">
+            
+            <a class="btn btn-outline-primary" href="../2021-F9J8CU.ics">
+                <i class="fa fa-calendar"></i> .ical
+            </a>
+            
+            
+                <a href="feedback/index.html"
+                        class="btn btn-success">
+                    <i class="fa fa-comments"></i> Feedback
+                </a>
+            
+            
+        </div>
+        </div>
+        <small>
+            
+                2021-06-02, 15:50–16:35, Main Room
+            
+            
+        </small>
+    </h3>
+    <div class="talk row">
+        <div class="talk-content col-lg-8 col-md-6 col-xs-12">
+            
+            
+            <section class="abstract">
+                <p>Whether you build Django projects or apps, you won’t get past database migrations. Let me show you some pitfalls, potential problems, and how to write safe ones.</p>
+            </section>
+            
+            <hr />
+            
+            <section class="description">
+                <p>Django’s built-in migration framework is great. And it works tremendously. But that’s only on the surface. Whenever you deploy your code and apply migrations in production, you are about to enter dangerous territory. I will point out common pitfalls and show you ways to avoid them. And with some additional best practices at hand, you will be ready for your next production deployment.</p>
+<p>The talk slides are available on <a href="https://speakerdeck.com/markush/writing-safe-database-migrations-djangocon-europe-2021" rel="nofollow"><strong>Speaker Deck</strong></a>.</p>
+<p>Video: <a href="https://www.youtube.com/watch?v=q1BlFKXy-BU&amp;ab_channel=DjangoConEurope" rel="nofollow">https://www.youtube.com/watch?v=q1BlFKXy-BU&amp;ab_channel=DjangoConEurope</a></p>
+            </section>
+            
+            </section>
+            
+        </div>
+        <aside class="col-lg-4 col-md-6 col-xs-12">
+            
+            
+            <div class="speakers">
+                <div class="speaker-header">
+                    
+                        Speaker
+                    
+                </div>
+                
+                    <div class="speaker">
+                        <a href="../../speaker/QJWFKC/index.html">
+                            <div class="name">
+                                Markus Holtermann
+                            </div>
+                        </a>
+                        <div class="info">
+                            
+                        </div>
+                    </div>
+                
+            </div>
+            
+            
+        </aside>
+    </div>
+</article>
+
+
+            </main>
+        </div>
+        <footer>
+            
+            <a href="http://pretalx.com/" target="_blank" rel="noopener">
+                <img src="../../../cfp-static/common/img/logo.c86a874657c9.svg" alt="The pretalx logo">
+            </a>
+            
+                &middot;
+                <a href="mailto:content@djangocon.eu">Contact us</a>
+            
+            
+                &middot;
+                <a href="https://2021.djangocon.eu/conduct/privacy_guide/" target="_blank" rel="noopener">Imprint</a>
+            
+            
+        </footer>
+    </div>
+</body>
+
+<!-- Mirrored from cfp.2021.djangocon.eu/2021/talk/F9J8CU/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Feb 2022 16:25:29 GMT -->
+</html>

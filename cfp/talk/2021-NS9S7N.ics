@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//cfp.2021.djangocon.eu//NS9S7N
+BEGIN:VEVENT
+UID:pretalx-2021-NS9S7N@cfp.2021.djangocon.eu
+DTSTART:20210604T071500Z
+DTEND:20210604T080000Z
+DESCRIPTION:TestCase.setUpTestData allows you to create test data once per 
+ TestCase\, rather than once per test. This talk will cover how it works\, 
+ how it improved in Django 3.2\, and how to convert your tests to use it.
+DTSTAMP:20220201T162849Z
+LOCATION:Main Room
+SUMMARY:Speed up your tests with setUpTestData - Adam Johnson
+URL:https://cfp.2021.djangocon.eu/2021/talk/NS9S7N/
+END:VEVENT
+END:VCALENDAR
